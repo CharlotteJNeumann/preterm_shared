@@ -1,0 +1,1997 @@
+ASV	kingdom	phylum	class	order	family	genus	species	ASV
+ASV1	Bacteria							ASV1
+ASV2	Bacteria							ASV2
+ASV3	Bacteria							ASV3
+ASV4	Bacteria							ASV4
+ASV5	Bacteria							ASV5
+ASV6	Bacteria							ASV6
+ASV7	Bacteria							ASV7
+ASV8	Bacteria							ASV8
+ASV9	Bacteria							ASV9
+ASV10	Bacteria							ASV10
+ASV11	Bacteria							ASV11
+ASV12	Bacteria							ASV12
+ASV13	Bacteria							ASV13
+ASV14	Bacteria							ASV14
+ASV15	Bacteria							ASV15
+ASV16	Bacteria							ASV16
+ASV17	Bacteria							ASV17
+ASV18	Bacteria							ASV18
+ASV19	Bacteria							ASV19
+ASV20	Bacteria							ASV20
+ASV21	Bacteria							ASV21
+ASV22	Bacteria							ASV22
+ASV23	Bacteria							ASV23
+ASV24	Bacteria							ASV24
+ASV25	Bacteria	Acidobacteria	Acidobacteriia	Acidobacteriales				ASV25
+ASV26	Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	Bryobacter		ASV26
+ASV27	Bacteria	Acidobacteria	Acidobacteriia	Solibacterales	Solibacteraceae (Subgroup 3)	Bryobacter		ASV27
+ASV28	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Blastocatellales	Blastocatellaceae	JGI 0001001-H03		ASV28
+ASV29	Bacteria	Acidobacteria	Blastocatellia (Subgroup 4)	Pyrinomonadales	Pyrinomonadaceae	RB41		ASV29
+ASV30	Bacteria	Acidobacteria	Holophagae	Subgroup 7				ASV30
+ASV31	Bacteria	Acidobacteria	Subgroup 17					ASV31
+ASV32	Bacteria	Acidobacteria	Subgroup 6					ASV32
+ASV33	Bacteria	Acidobacteria	Subgroup 6					ASV33
+ASV34	Bacteria	Acidobacteria	Subgroup 6					ASV34
+ASV35	Bacteria	Actinobacteria	Actinobacteria					ASV35
+ASV36	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces		ASV36
+ASV37	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces		ASV37
+ASV38	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinomyces		ASV38
+ASV39	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Actinotignum	Actinotignum schaalii	ASV39
+ASV40	Bacteria	Actinobacteria	Actinobacteria	Actinomycetales	Actinomycetaceae	Mobiluncus	Mobiluncus curtisii	ASV40
+ASV41	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV41
+ASV42	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV42
+ASV43	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV43
+ASV44	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV44
+ASV45	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV45
+ASV46	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV46
+ASV47	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV47
+ASV48	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV48
+ASV49	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV49
+ASV50	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV50
+ASV51	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV51
+ASV52	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV52
+ASV53	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV53
+ASV54	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV54
+ASV55	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV55
+ASV56	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV56
+ASV57	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV57
+ASV58	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV58
+ASV59	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV59
+ASV60	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV60
+ASV61	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV61
+ASV62	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV62
+ASV63	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV63
+ASV64	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV64
+ASV65	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV65
+ASV66	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV66
+ASV67	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV67
+ASV68	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV68
+ASV69	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV69
+ASV70	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV70
+ASV71	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV71
+ASV72	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV72
+ASV73	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV73
+ASV74	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV74
+ASV75	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV75
+ASV76	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV76
+ASV77	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV77
+ASV78	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV78
+ASV79	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV79
+ASV80	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV80
+ASV81	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV81
+ASV82	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV82
+ASV83	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV83
+ASV84	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV84
+ASV85	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV85
+ASV86	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV86
+ASV87	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV87
+ASV88	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV88
+ASV89	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV89
+ASV90	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV90
+ASV91	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV91
+ASV92	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV92
+ASV93	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV93
+ASV94	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV94
+ASV95	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV95
+ASV96	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV96
+ASV97	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV97
+ASV98	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV98
+ASV99	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV99
+ASV100	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV100
+ASV101	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV101
+ASV102	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV102
+ASV103	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV103
+ASV104	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV104
+ASV105	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV105
+ASV106	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV106
+ASV107	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV107
+ASV108	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV108
+ASV109	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV109
+ASV110	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV110
+ASV111	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV111
+ASV112	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV112
+ASV113	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV113
+ASV114	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV114
+ASV115	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	ASV115
+ASV116	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	ASV116
+ASV117	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium	Bifidobacterium bifidum	ASV117
+ASV118	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV118
+ASV119	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV119
+ASV120	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV120
+ASV121	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Bifidobacterium		ASV121
+ASV122	Bacteria	Actinobacteria	Actinobacteria	Bifidobacteriales	Bifidobacteriaceae	Gardnerella		ASV122
+ASV123	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales				ASV123
+ASV124	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		ASV124
+ASV125	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		ASV125
+ASV126	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		ASV126
+ASV127	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		ASV127
+ASV128	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		ASV128
+ASV129	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV129
+ASV130	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV130
+ASV131	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV131
+ASV132	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV132
+ASV133	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV133
+ASV134	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV134
+ASV135	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV135
+ASV136	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV136
+ASV137	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV137
+ASV138	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV138
+ASV139	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV139
+ASV140	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV140
+ASV141	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV141
+ASV142	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV142
+ASV143	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV143
+ASV144	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV144
+ASV145	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV145
+ASV146	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV146
+ASV147	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV147
+ASV148	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV148
+ASV149	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV149
+ASV150	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV150
+ASV151	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV151
+ASV152	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium 1		ASV152
+ASV153	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Corynebacteriaceae	Corynebacterium		ASV153
+ASV154	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Mycobacteriaceae	Mycobacterium		ASV154
+ASV155	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Gordonia		ASV155
+ASV156	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Gordonia		ASV156
+ASV157	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Gordonia		ASV157
+ASV158	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Gordonia		ASV158
+ASV159	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus erythropolis	ASV159
+ASV160	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus erythropolis	ASV160
+ASV161	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Rhodococcus	Rhodococcus fascians	ASV161
+ASV162	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia		ASV162
+ASV163	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia		ASV163
+ASV164	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia		ASV164
+ASV165	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia		ASV165
+ASV166	Bacteria	Actinobacteria	Actinobacteria	Corynebacteriales	Nocardiaceae	Williamsia		ASV166
+ASV167	Bacteria	Actinobacteria	Actinobacteria	Frankiales				ASV167
+ASV168	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans		ASV168
+ASV169	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Frankiaceae	Jatrophihabitans		ASV169
+ASV170	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae			ASV170
+ASV171	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae			ASV171
+ASV172	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae			ASV172
+ASV173	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae			ASV173
+ASV174	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae			ASV174
+ASV175	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus		ASV175
+ASV176	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus		ASV176
+ASV177	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus		ASV177
+ASV178	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus		ASV178
+ASV179	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus		ASV179
+ASV180	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Blastococcus		ASV180
+ASV181	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Geodermatophilus		ASV181
+ASV182	Bacteria	Actinobacteria	Actinobacteria	Frankiales	Geodermatophilaceae	Modestobacter		ASV182
+ASV183	Bacteria	Actinobacteria	Actinobacteria	Frankiales				ASV183
+ASV184	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV184
+ASV185	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV185
+ASV186	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV186
+ASV187	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV187
+ASV188	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV188
+ASV189	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV189
+ASV190	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV190
+ASV191	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV191
+ASV192	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV192
+ASV193	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV193
+ASV194	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV194
+ASV195	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV195
+ASV196	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV196
+ASV197	Bacteria	Actinobacteria	Actinobacteria	Kineosporiales	Kineosporiaceae	Quadrisphaera		ASV197
+ASV198	Bacteria	Actinobacteria	Actinobacteria	Micrococcales				ASV198
+ASV199	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium		ASV199
+ASV200	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium		ASV200
+ASV201	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Brevibacteriaceae	Brevibacterium		ASV201
+ASV202	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas		ASV202
+ASV203	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Cellulomonadaceae	Cellulomonas		ASV203
+ASV204	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium		ASV204
+ASV205	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium		ASV205
+ASV206	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium		ASV206
+ASV207	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Dermabacteraceae	Brachybacterium		ASV207
+ASV208	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae			ASV208
+ASV209	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae			ASV209
+ASV210	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Intrasporangiaceae	Aquipuribacter		ASV210
+ASV211	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae			ASV211
+ASV212	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agromyces		ASV212
+ASV213	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agromyces		ASV213
+ASV214	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Agromyces		ASV214
+ASV215	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter		ASV215
+ASV216	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter		ASV216
+ASV217	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Leucobacter		ASV217
+ASV218	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium		ASV218
+ASV219	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Microbacteriaceae	Microbacterium	Microbacterium testaceum	ASV219
+ASV220	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae			ASV220
+ASV221	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Garicola		ASV221
+ASV222	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV222
+ASV223	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV223
+ASV224	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV224
+ASV225	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV225
+ASV226	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV226
+ASV227	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV227
+ASV228	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV228
+ASV229	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV229
+ASV230	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV230
+ASV231	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV231
+ASV232	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV232
+ASV233	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Kocuria		ASV233
+ASV234	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus		ASV234
+ASV235	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus		ASV235
+ASV236	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus		ASV236
+ASV237	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus		ASV237
+ASV238	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Micrococcus		ASV238
+ASV239	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV239
+ASV240	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV240
+ASV241	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV241
+ASV242	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV242
+ASV243	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV243
+ASV244	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV244
+ASV245	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV245
+ASV246	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV246
+ASV247	Bacteria	Actinobacteria	Actinobacteria	Micrococcales	Micrococcaceae	Rothia		ASV247
+ASV248	Bacteria	Actinobacteria	Actinobacteria	Micromonosporales	Micromonosporaceae			ASV248
+ASV249	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Marmoricola		ASV249
+ASV250	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides		ASV250
+ASV251	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides		ASV251
+ASV252	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Nocardioidaceae	Nocardioides		ASV252
+ASV253	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV253
+ASV254	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV254
+ASV255	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV255
+ASV256	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV256
+ASV257	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV257
+ASV258	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV258
+ASV259	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV259
+ASV260	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV260
+ASV261	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV261
+ASV262	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV262
+ASV263	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV263
+ASV264	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Cutibacterium		ASV264
+ASV265	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Friedmanniella		ASV265
+ASV266	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae	Microlunatus		ASV266
+ASV267	Bacteria	Actinobacteria	Actinobacteria	Propionibacteriales	Propionibacteriaceae			ASV267
+ASV268	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora		ASV268
+ASV269	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora		ASV269
+ASV270	Bacteria	Actinobacteria	Actinobacteria	Pseudonocardiales	Pseudonocardiaceae	Saccharopolyspora		ASV270
+ASV271	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Atopobium		ASV271
+ASV272	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Atopobiaceae	Olsenella		ASV272
+ASV273	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella		ASV273
+ASV274	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella		ASV274
+ASV275	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Coriobacteriaceae	Collinsella		ASV275
+ASV276	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus		ASV276
+ASV277	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Enterorhabdus		ASV277
+ASV278	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Senegalimassilia		ASV278
+ASV279	Bacteria	Actinobacteria	Coriobacteriia	Coriobacteriales	Eggerthellaceae	Senegalimassilia		ASV279
+ASV280	Bacteria	Actinobacteria	Rubrobacteria	Rubrobacterales	Rubrobacteriaceae	Rubrobacter		ASV280
+ASV281	Bacteria	Actinobacteria	Thermoleophilia	Solirubrobacterales	Solirubrobacteraceae	Solirubrobacter		ASV281
+ASV282	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV282
+ASV283	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV283
+ASV284	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV284
+ASV285	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV285
+ASV286	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV286
+ASV287	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV287
+ASV288	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV288
+ASV289	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV289
+ASV290	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV290
+ASV291	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV291
+ASV292	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV292
+ASV293	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV293
+ASV294	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV294
+ASV295	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV295
+ASV296	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV296
+ASV297	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV297
+ASV298	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV298
+ASV299	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV299
+ASV300	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV300
+ASV301	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV301
+ASV302	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV302
+ASV303	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV303
+ASV304	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV304
+ASV305	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV305
+ASV306	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Bacteroidaceae	Bacteroides		ASV306
+ASV307	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Dysgonomonadaceae	Dysgonomonas		ASV307
+ASV308	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Marinifilaceae	Odoribacter		ASV308
+ASV309	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Porphyromonadaceae	Porphyromonas		ASV309
+ASV310	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella		ASV310
+ASV311	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella		ASV311
+ASV312	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Alloprevotella		ASV312
+ASV313	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 6		ASV313
+ASV314	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV314
+ASV315	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV315
+ASV316	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV316
+ASV317	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV317
+ASV318	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV318
+ASV319	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV319
+ASV320	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV320
+ASV321	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV321
+ASV322	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV322
+ASV323	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV323
+ASV324	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella 9		ASV324
+ASV325	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotella	Prevotella bivia	ASV325
+ASV326	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group		ASV326
+ASV327	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae NK3B31 group		ASV327
+ASV328	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae	Prevotellaceae UCG-004		ASV328
+ASV329	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae			ASV329
+ASV330	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Prevotellaceae			ASV330
+ASV331	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV331
+ASV332	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV332
+ASV333	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV333
+ASV334	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV334
+ASV335	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV335
+ASV336	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV336
+ASV337	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV337
+ASV338	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV338
+ASV339	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV339
+ASV340	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Rikenellaceae	Alistipes		ASV340
+ASV341	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Macellibacteroides		ASV341
+ASV342	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides		ASV342
+ASV343	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides		ASV343
+ASV344	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides		ASV344
+ASV345	Bacteria	Bacteroidetes	Bacteroidia	Bacteroidales	Tannerellaceae	Parabacteroides		ASV345
+ASV346	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae			ASV346
+ASV347	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae			ASV347
+ASV348	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae			ASV348
+ASV349	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter		ASV349
+ASV350	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter		ASV350
+ASV351	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter		ASV351
+ASV352	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter		ASV352
+ASV353	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Ferruginibacter		ASV353
+ASV354	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium		ASV354
+ASV355	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium		ASV355
+ASV356	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium		ASV356
+ASV357	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Sediminibacterium		ASV357
+ASV358	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Taibaiella		ASV358
+ASV359	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae			ASV359
+ASV360	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Chitinophagaceae	Vibrionimonas		ASV360
+ASV361	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales	Saprospiraceae	Phaeodactylibacter		ASV361
+ASV362	Bacteria	Bacteroidetes	Bacteroidia	Chitinophagales				ASV362
+ASV363	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Adhaeribacter		ASV363
+ASV364	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Adhaeribacter		ASV364
+ASV365	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV365
+ASV366	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV366
+ASV367	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV367
+ASV368	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV368
+ASV369	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV369
+ASV370	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV370
+ASV371	Bacteria	Bacteroidetes	Bacteroidia	Cytophagales	Hymenobacteraceae	Hymenobacter		ASV371
+ASV372	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Crocinitomicaceae	Crocinitomix		ASV372
+ASV373	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Capnocytophaga		ASV373
+ASV374	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium		ASV374
+ASV375	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium		ASV375
+ASV376	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Flavobacteriaceae	Flavobacterium		ASV376
+ASV377	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae			ASV377
+ASV378	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae			ASV378
+ASV379	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Bergeyella		ASV379
+ASV380	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium		ASV380
+ASV381	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium	Chryseobacterium indologenes	ASV381
+ASV382	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium		ASV382
+ASV383	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium		ASV383
+ASV384	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium		ASV384
+ASV385	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Chryseobacterium		ASV385
+ASV386	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV386
+ASV387	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV387
+ASV388	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV388
+ASV389	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV389
+ASV390	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV390
+ASV391	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV391
+ASV392	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Cloacibacterium		ASV392
+ASV393	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV393
+ASV394	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV394
+ASV395	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV395
+ASV396	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV396
+ASV397	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV397
+ASV398	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV398
+ASV399	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV399
+ASV400	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV400
+ASV401	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV401
+ASV402	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV402
+ASV403	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV403
+ASV404	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV404
+ASV405	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV405
+ASV406	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV406
+ASV407	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV407
+ASV408	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV408
+ASV409	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV409
+ASV410	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV410
+ASV411	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV411
+ASV412	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV412
+ASV413	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV413
+ASV414	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV414
+ASV415	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV415
+ASV416	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV416
+ASV417	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV417
+ASV418	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV418
+ASV419	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV419
+ASV420	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV420
+ASV421	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV421
+ASV422	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV422
+ASV423	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV423
+ASV424	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV424
+ASV425	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Elizabethkingia	Elizabethkingia meningoseptica	ASV425
+ASV426	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV426
+ASV427	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV427
+ASV428	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV428
+ASV429	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV429
+ASV430	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV430
+ASV431	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV431
+ASV432	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV432
+ASV433	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV433
+ASV434	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV434
+ASV435	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV435
+ASV436	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV436
+ASV437	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV437
+ASV438	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV438
+ASV439	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV439
+ASV440	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV440
+ASV441	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV441
+ASV442	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV442
+ASV443	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae	Empedobacter		ASV443
+ASV444	Bacteria	Bacteroidetes	Bacteroidia	Flavobacteriales	Weeksellaceae			ASV444
+ASV445	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	AKYH767			ASV445
+ASV446	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter		ASV446
+ASV447	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Pedobacter		ASV447
+ASV448	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium		ASV448
+ASV449	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium multivorum	ASV449
+ASV450	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium	Sphingobacterium sp.	ASV450
+ASV451	Bacteria	Bacteroidetes	Bacteroidia	Sphingobacteriales	Sphingobacteriaceae	Sphingobacterium		ASV451
+ASV452	Bacteria	Bacteroidetes	Ignavibacteria	OPB56				ASV452
+ASV453	Bacteria	BRC1						ASV453
+ASV454	Bacteria	Chloroflexi	Anaerolineae	Anaerolineales	Anaerolineaceae			ASV454
+ASV455	Bacteria	Chloroflexi	Anaerolineae	SBR1031	A4b			ASV455
+ASV456	Bacteria	Chloroflexi	Chloroflexia	Thermomicrobiales	JG30-KF-CM45			ASV456
+ASV457	Bacteria	Chloroflexi	JG30-KF-CM66					ASV457
+ASV458	Bacteria	Chloroflexi	Ktedonobacteria	Ktedonobacterales	Ktedonobacteraceae			ASV458
+ASV459	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV459
+ASV460	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV460
+ASV461	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV461
+ASV462	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV462
+ASV463	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV463
+ASV464	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV464
+ASV465	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV465
+ASV466	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV466
+ASV467	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV467
+ASV468	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV468
+ASV469	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Deinococcaceae	Deinococcus		ASV469
+ASV470	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV470
+ASV471	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV471
+ASV472	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV472
+ASV473	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV473
+ASV474	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV474
+ASV475	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV475
+ASV476	Bacteria	Deinococcus-Thermus	Deinococci	Deinococcales	Trueperaceae	Truepera		ASV476
+ASV477	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Thermus		ASV477
+ASV478	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Thermus		ASV478
+ASV479	Bacteria	Deinococcus-Thermus	Deinococci	Thermales	Thermaceae	Thermus		ASV479
+ASV480	Bacteria	Dependentiae	Babeliae	Babeliales				ASV480
+ASV481	Bacteria	Dependentiae	Babeliae	Babeliales				ASV481
+ASV482	Bacteria	Dependentiae	Babeliae	Babeliales				ASV482
+ASV483	Bacteria	Dependentiae	Babeliae	Babeliales				ASV483
+ASV484	Bacteria	Dependentiae	Babeliae	Babeliales	UBA12409			ASV484
+ASV485	Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV				ASV485
+ASV486	Bacteria	Elusimicrobia	Elusimicrobia	Lineage IV				ASV486
+ASV487	Bacteria	Elusimicrobia	Elusimicrobia	MVP-88				ASV487
+ASV488	Bacteria	FBP						ASV488
+ASV489	Bacteria	FBP						ASV489
+ASV490	Bacteria	FBP						ASV490
+ASV491	Bacteria	FBP						ASV491
+ASV492	Bacteria	Firmicutes	Bacilli					ASV492
+ASV493	Bacteria	Firmicutes	Bacilli					ASV493
+ASV494	Bacteria	Firmicutes	Bacilli					ASV494
+ASV495	Bacteria	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Effusibacillus		ASV495
+ASV496	Bacteria	Firmicutes	Bacilli	Bacillales	Alicyclobacillaceae	Effusibacillus		ASV496
+ASV497	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus		ASV497
+ASV498	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus		ASV498
+ASV499	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Anoxybacillus		ASV499
+ASV500	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		ASV500
+ASV501	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		ASV501
+ASV502	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus		ASV502
+ASV503	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV503
+ASV504	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV504
+ASV505	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV505
+ASV506	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV506
+ASV507	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV507
+ASV508	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV508
+ASV509	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV509
+ASV510	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV510
+ASV511	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV511
+ASV512	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV512
+ASV513	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV513
+ASV514	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV514
+ASV515	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV515
+ASV516	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV516
+ASV517	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus halodurans	ASV517
+ASV518	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus licheniformis	ASV518
+ASV519	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thermoamylovorans	ASV519
+ASV520	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thermoamylovorans	ASV520
+ASV521	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thermoamylovorans	ASV521
+ASV522	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thermoamylovorans	ASV522
+ASV523	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Bacillus	Bacillus thermoamylovorans	ASV523
+ASV524	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus		ASV524
+ASV525	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV525
+ASV526	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV526
+ASV527	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV527
+ASV528	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV528
+ASV529	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV529
+ASV530	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV530
+ASV531	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV531
+ASV532	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV532
+ASV533	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV533
+ASV534	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV534
+ASV535	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV535
+ASV536	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV536
+ASV537	Bacteria	Firmicutes	Bacilli	Bacillales	Bacillaceae	Geobacillus	Geobacillus stearothermophilus	ASV537
+ASV538	Bacteria	Firmicutes	Bacilli	Bacillales	Family XI	Gemella		ASV538
+ASV539	Bacteria	Firmicutes	Bacilli	Bacillales	Family XI	Gemella		ASV539
+ASV540	Bacteria	Firmicutes	Bacilli	Bacillales	Family XI	Gemella		ASV540
+ASV541	Bacteria	Firmicutes	Bacilli	Bacillales	Family XI	Gemella		ASV541
+ASV542	Bacteria	Firmicutes	Bacilli	Bacillales	Family XI	Gemella		ASV542
+ASV543	Bacteria	Firmicutes	Bacilli	Bacillales	Family XII	Exiguobacterium		ASV543
+ASV544	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus		ASV544
+ASV545	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus		ASV545
+ASV546	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus		ASV546
+ASV547	Bacteria	Firmicutes	Bacilli	Bacillales	Paenibacillaceae	Paenibacillus	Paenibacillus barengoltzii	ASV547
+ASV548	Bacteria	Firmicutes	Bacilli	Bacillales	Planococcaceae	Lysinibacillus		ASV548
+ASV549	Bacteria	Firmicutes	Bacilli	Bacillales	Sporolactobacillaceae	Salipaludibacillus		ASV549
+ASV550	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae			ASV550
+ASV551	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV551
+ASV552	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV552
+ASV553	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV553
+ASV554	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV554
+ASV555	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV555
+ASV556	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV556
+ASV557	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV557
+ASV558	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV558
+ASV559	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV559
+ASV560	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV560
+ASV561	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV561
+ASV562	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV562
+ASV563	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV563
+ASV564	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV564
+ASV565	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV565
+ASV566	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV566
+ASV567	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV567
+ASV568	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV568
+ASV569	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV569
+ASV570	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV570
+ASV571	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV571
+ASV572	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV572
+ASV573	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV573
+ASV574	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV574
+ASV575	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV575
+ASV576	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV576
+ASV577	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV577
+ASV578	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV578
+ASV579	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV579
+ASV580	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV580
+ASV581	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV581
+ASV582	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV582
+ASV583	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV583
+ASV584	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV584
+ASV585	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV585
+ASV586	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV586
+ASV587	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV587
+ASV588	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV588
+ASV589	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV589
+ASV590	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV590
+ASV591	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV591
+ASV592	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV592
+ASV593	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV593
+ASV594	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV594
+ASV595	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV595
+ASV596	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV596
+ASV597	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV597
+ASV598	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV598
+ASV599	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV599
+ASV600	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV600
+ASV601	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV601
+ASV602	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV602
+ASV603	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV603
+ASV604	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV604
+ASV605	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV605
+ASV606	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV606
+ASV607	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV607
+ASV608	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV608
+ASV609	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV609
+ASV610	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV610
+ASV611	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV611
+ASV612	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV612
+ASV613	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV613
+ASV614	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV614
+ASV615	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV615
+ASV616	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV616
+ASV617	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV617
+ASV618	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV618
+ASV619	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV619
+ASV620	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV620
+ASV621	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV621
+ASV622	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV622
+ASV623	Bacteria	Firmicutes	Bacilli	Bacillales	Staphylococcaceae	Staphylococcus		ASV623
+ASV624	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV624
+ASV625	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV625
+ASV626	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV626
+ASV627	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV627
+ASV628	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV628
+ASV629	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV629
+ASV630	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV630
+ASV631	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV631
+ASV632	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV632
+ASV633	Bacteria	Firmicutes	Bacilli	Lactobacillales				ASV633
+ASV634	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Abiotrophia		ASV634
+ASV635	Bacteria	Firmicutes	Bacilli	Lactobacillales	Aerococcaceae	Facklamia		ASV635
+ASV636	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Atopostipes		ASV636
+ASV637	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella		ASV637
+ASV638	Bacteria	Firmicutes	Bacilli	Lactobacillales	Carnobacteriaceae	Granulicatella		ASV638
+ASV639	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae			ASV639
+ASV640	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV640
+ASV641	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV641
+ASV642	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV642
+ASV643	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV643
+ASV644	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV644
+ASV645	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV645
+ASV646	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV646
+ASV647	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV647
+ASV648	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV648
+ASV649	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV649
+ASV650	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV650
+ASV651	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV651
+ASV652	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV652
+ASV653	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV653
+ASV654	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV654
+ASV655	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV655
+ASV656	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV656
+ASV657	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV657
+ASV658	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV658
+ASV659	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV659
+ASV660	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV660
+ASV661	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV661
+ASV662	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV662
+ASV663	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV663
+ASV664	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV664
+ASV665	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV665
+ASV666	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV666
+ASV667	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV667
+ASV668	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV668
+ASV669	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV669
+ASV670	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV670
+ASV671	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV671
+ASV672	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV672
+ASV673	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV673
+ASV674	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV674
+ASV675	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV675
+ASV676	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV676
+ASV677	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV677
+ASV678	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV678
+ASV679	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV679
+ASV680	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV680
+ASV681	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV681
+ASV682	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV682
+ASV683	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV683
+ASV684	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV684
+ASV685	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV685
+ASV686	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV686
+ASV687	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV687
+ASV688	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV688
+ASV689	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV689
+ASV690	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV690
+ASV691	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV691
+ASV692	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV692
+ASV693	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV693
+ASV694	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV694
+ASV695	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV695
+ASV696	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV696
+ASV697	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV697
+ASV698	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV698
+ASV699	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV699
+ASV700	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV700
+ASV701	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV701
+ASV702	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV702
+ASV703	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV703
+ASV704	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV704
+ASV705	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV705
+ASV706	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV706
+ASV707	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV707
+ASV708	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV708
+ASV709	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV709
+ASV710	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV710
+ASV711	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV711
+ASV712	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV712
+ASV713	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV713
+ASV714	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV714
+ASV715	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV715
+ASV716	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV716
+ASV717	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV717
+ASV718	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV718
+ASV719	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV719
+ASV720	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV720
+ASV721	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV721
+ASV722	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV722
+ASV723	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV723
+ASV724	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV724
+ASV725	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV725
+ASV726	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV726
+ASV727	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV727
+ASV728	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV728
+ASV729	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV729
+ASV730	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV730
+ASV731	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV731
+ASV732	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV732
+ASV733	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV733
+ASV734	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV734
+ASV735	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV735
+ASV736	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV736
+ASV737	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV737
+ASV738	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV738
+ASV739	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV739
+ASV740	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV740
+ASV741	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV741
+ASV742	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV742
+ASV743	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV743
+ASV744	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV744
+ASV745	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV745
+ASV746	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV746
+ASV747	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV747
+ASV748	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV748
+ASV749	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV749
+ASV750	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV750
+ASV751	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Enterococcus		ASV751
+ASV752	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus		ASV752
+ASV753	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus		ASV753
+ASV754	Bacteria	Firmicutes	Bacilli	Lactobacillales	Enterococcaceae	Vagococcus		ASV754
+ASV755	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV755
+ASV756	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV756
+ASV757	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV757
+ASV758	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV758
+ASV759	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV759
+ASV760	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV760
+ASV761	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV761
+ASV762	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV762
+ASV763	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV763
+ASV764	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV764
+ASV765	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV765
+ASV766	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV766
+ASV767	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV767
+ASV768	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV768
+ASV769	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV769
+ASV770	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV770
+ASV771	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV771
+ASV772	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV772
+ASV773	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV773
+ASV774	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV774
+ASV775	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV775
+ASV776	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV776
+ASV777	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV777
+ASV778	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV778
+ASV779	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV779
+ASV780	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV780
+ASV781	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV781
+ASV782	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV782
+ASV783	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV783
+ASV784	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV784
+ASV785	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV785
+ASV786	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV786
+ASV787	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV787
+ASV788	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV788
+ASV789	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV789
+ASV790	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV790
+ASV791	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV791
+ASV792	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV792
+ASV793	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV793
+ASV794	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV794
+ASV795	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV795
+ASV796	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV796
+ASV797	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV797
+ASV798	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV798
+ASV799	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV799
+ASV800	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV800
+ASV801	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV801
+ASV802	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV802
+ASV803	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV803
+ASV804	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV804
+ASV805	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV805
+ASV806	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV806
+ASV807	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV807
+ASV808	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV808
+ASV809	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV809
+ASV810	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV810
+ASV811	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV811
+ASV812	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus		ASV812
+ASV813	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus casei	ASV813
+ASV814	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus delbrueckii	ASV814
+ASV815	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus gasseri	ASV815
+ASV816	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus reuteri	ASV816
+ASV817	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV817
+ASV818	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV818
+ASV819	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV819
+ASV820	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV820
+ASV821	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV821
+ASV822	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV822
+ASV823	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV823
+ASV824	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV824
+ASV825	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV825
+ASV826	Bacteria	Firmicutes	Bacilli	Lactobacillales	Lactobacillaceae	Lactobacillus	Lactobacillus rhamnosus	ASV826
+ASV827	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus		ASV827
+ASV828	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus		ASV828
+ASV829	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus		ASV829
+ASV830	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus		ASV830
+ASV831	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus		ASV831
+ASV832	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus garvieae subsp. garvieae	ASV832
+ASV833	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus garvieae subsp. garvieae	ASV833
+ASV834	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus garvieae subsp. garvieae	ASV834
+ASV835	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV835
+ASV836	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV836
+ASV837	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV837
+ASV838	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV838
+ASV839	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV839
+ASV840	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV840
+ASV841	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV841
+ASV842	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV842
+ASV843	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Lactococcus	Lactococcus lactis	ASV843
+ASV844	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV844
+ASV845	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV845
+ASV846	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV846
+ASV847	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV847
+ASV848	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV848
+ASV849	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV849
+ASV850	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV850
+ASV851	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV851
+ASV852	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV852
+ASV853	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV853
+ASV854	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV854
+ASV855	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV855
+ASV856	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV856
+ASV857	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV857
+ASV858	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV858
+ASV859	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV859
+ASV860	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV860
+ASV861	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV861
+ASV862	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV862
+ASV863	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV863
+ASV864	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV864
+ASV865	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV865
+ASV866	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV866
+ASV867	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV867
+ASV868	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV868
+ASV869	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV869
+ASV870	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV870
+ASV871	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV871
+ASV872	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV872
+ASV873	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV873
+ASV874	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV874
+ASV875	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV875
+ASV876	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV876
+ASV877	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV877
+ASV878	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV878
+ASV879	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus		ASV879
+ASV880	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	ASV880
+ASV881	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	ASV881
+ASV882	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	ASV882
+ASV883	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	ASV883
+ASV884	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus agalactiae	ASV884
+ASV885	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus anginosus subsp. anginosus	ASV885
+ASV886	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus gallolyticus subsp. macedonicus	ASV886
+ASV887	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV887
+ASV888	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV888
+ASV889	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV889
+ASV890	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV890
+ASV891	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV891
+ASV892	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV892
+ASV893	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV893
+ASV894	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV894
+ASV895	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV895
+ASV896	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV896
+ASV897	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV897
+ASV898	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV898
+ASV899	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV899
+ASV900	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV900
+ASV901	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV901
+ASV902	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV902
+ASV903	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV903
+ASV904	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV904
+ASV905	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV905
+ASV906	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV906
+ASV907	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV907
+ASV908	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV908
+ASV909	Bacteria	Firmicutes	Bacilli	Lactobacillales	Streptococcaceae	Streptococcus	Streptococcus salivarius subsp. thermophilus	ASV909
+ASV910	Bacteria	Firmicutes	Clostridia	Clostridiales				ASV910
+ASV911	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group		ASV911
+ASV912	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group		ASV912
+ASV913	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group		ASV913
+ASV914	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group		ASV914
+ASV915	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group		ASV915
+ASV916	Bacteria	Firmicutes	Clostridia	Clostridiales	Christensenellaceae	Christensenellaceae R-7 group		ASV916
+ASV917	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1		ASV917
+ASV918	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1		ASV918
+ASV919	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1	Clostridium perfringens	ASV919
+ASV920	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1		ASV920
+ASV921	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiaceae 1	Clostridium sensu stricto 1		ASV921
+ASV922	Bacteria	Firmicutes	Clostridia	Clostridiales	Clostridiales vadinBB60 group			ASV922
+ASV923	Bacteria	Firmicutes	Clostridia	Clostridiales	Defluviitaleaceae	Defluviitaleaceae UCG-011		ASV923
+ASV924	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus		ASV924
+ASV925	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus		ASV925
+ASV926	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus		ASV926
+ASV927	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Anaerococcus		ASV927
+ASV928	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Ezakiella		ASV928
+ASV929	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV929
+ASV930	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV930
+ASV931	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV931
+ASV932	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV932
+ASV933	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV933
+ASV934	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV934
+ASV935	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XI	Finegoldia		ASV935
+ASV936	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	[Eubacterium] brachy group		ASV936
+ASV937	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group		ASV937
+ASV938	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group		ASV938
+ASV939	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group		ASV939
+ASV940	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group		ASV940
+ASV941	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	Family XIII AD3011 group		ASV941
+ASV942	Bacteria	Firmicutes	Clostridia	Clostridiales	Family XIII	S5-A14a		ASV942
+ASV943	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV943
+ASV944	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV944
+ASV945	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV945
+ASV946	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV946
+ASV947	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV947
+ASV948	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV948
+ASV949	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV949
+ASV950	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV950
+ASV951	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV951
+ASV952	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] eligens group		ASV952
+ASV953	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV953
+ASV954	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV954
+ASV955	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV955
+ASV956	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV956
+ASV957	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV957
+ASV958	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV958
+ASV959	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV959
+ASV960	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] hallii group		ASV960
+ASV961	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] ruminantium group		ASV961
+ASV962	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] ruminantium group		ASV962
+ASV963	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] xylanophilum group		ASV963
+ASV964	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Eubacterium] xylanophilum group		ASV964
+ASV965	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus] gauvreauii group		ASV965
+ASV966	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	[Ruminococcus] gauvreauii group		ASV966
+ASV967	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Agathobacter		ASV967
+ASV968	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Agathobacter		ASV968
+ASV969	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Agathobacter		ASV969
+ASV970	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Agathobacter		ASV970
+ASV971	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes		ASV971
+ASV972	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes		ASV972
+ASV973	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes		ASV973
+ASV974	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Anaerostipes		ASV974
+ASV975	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV975
+ASV976	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV976
+ASV977	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV977
+ASV978	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV978
+ASV979	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV979
+ASV980	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV980
+ASV981	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV981
+ASV982	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV982
+ASV983	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV983
+ASV984	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV984
+ASV985	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV985
+ASV986	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV986
+ASV987	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV987
+ASV988	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV988
+ASV989	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV989
+ASV990	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV990
+ASV991	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Blautia		ASV991
+ASV992	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Butyrivibrio		ASV992
+ASV993	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	CAG-56		ASV993
+ASV994	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	CAG-56		ASV994
+ASV995	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus 1		ASV995
+ASV996	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus 2		ASV996
+ASV997	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus 2		ASV997
+ASV998	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus 2		ASV998
+ASV999	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus 2		ASV999
+ASV1000	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Coprococcus 3		ASV1000
+ASV1001	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		ASV1001
+ASV1002	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		ASV1002
+ASV1003	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		ASV1003
+ASV1004	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Dorea		ASV1004
+ASV1005	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Fusicatenibacter		ASV1005
+ASV1006	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Herbinix		ASV1006
+ASV1007	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum		ASV1007
+ASV1008	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum		ASV1008
+ASV1009	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum		ASV1009
+ASV1010	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum		ASV1010
+ASV1011	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoanaerobaculum		ASV1011
+ASV1012	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium		ASV1012
+ASV1013	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium		ASV1013
+ASV1014	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium		ASV1014
+ASV1015	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnoclostridium		ASV1015
+ASV1016	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospira		ASV1016
+ASV1017	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae FCS020 group		ASV1017
+ASV1018	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae FCS020 group		ASV1018
+ASV1019	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae FCS020 group		ASV1019
+ASV1020	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae ND3007 group		ASV1020
+ASV1021	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae ND3007 group		ASV1021
+ASV1022	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae ND3007 group		ASV1022
+ASV1023	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group		ASV1023
+ASV1024	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group		ASV1024
+ASV1025	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group		ASV1025
+ASV1026	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group		ASV1026
+ASV1027	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae NK4A136 group		ASV1027
+ASV1028	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Lachnospiraceae UCG-001		ASV1028
+ASV1029	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1029
+ASV1030	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1030
+ASV1031	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1031
+ASV1032	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1032
+ASV1033	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1033
+ASV1034	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1034
+ASV1035	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1035
+ASV1036	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1036
+ASV1037	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1037
+ASV1038	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae	Roseburia		ASV1038
+ASV1039	Bacteria	Firmicutes	Clostridia	Clostridiales	Lachnospiraceae			ASV1039
+ASV1040	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Intestinibacter		ASV1040
+ASV1041	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Intestinibacter		ASV1041
+ASV1042	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia		ASV1042
+ASV1043	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia		ASV1043
+ASV1044	Bacteria	Firmicutes	Clostridia	Clostridiales	Peptostreptococcaceae	Romboutsia		ASV1044
+ASV1045	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae			ASV1045
+ASV1046	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group		ASV1046
+ASV1047	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group		ASV1047
+ASV1048	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group		ASV1048
+ASV1049	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	[Eubacterium] coprostanoligenes group		ASV1049
+ASV1050	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Butyricicoccus		ASV1050
+ASV1051	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Candidatus Soleaferrea		ASV1051
+ASV1052	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Candidatus Soleaferrea		ASV1052
+ASV1053	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1053
+ASV1054	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1054
+ASV1055	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1055
+ASV1056	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1056
+ASV1057	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1057
+ASV1058	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1058
+ASV1059	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1059
+ASV1060	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1060
+ASV1061	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Faecalibacterium		ASV1061
+ASV1062	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Fournierella		ASV1062
+ASV1063	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	GCA-900066225		ASV1063
+ASV1064	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	GCA-900066225		ASV1064
+ASV1065	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	GCA-900066225		ASV1065
+ASV1066	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Hydrogenoanaerobacterium		ASV1066
+ASV1067	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Negativibacillus		ASV1067
+ASV1068	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Negativibacillus		ASV1068
+ASV1069	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 5		ASV1069
+ASV1070	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 5		ASV1070
+ASV1071	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 6		ASV1071
+ASV1072	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 9		ASV1072
+ASV1073	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminiclostridium 9		ASV1073
+ASV1074	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae NK4A214 group		ASV1074
+ASV1075	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae NK4A214 group		ASV1075
+ASV1076	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae NK4A214 group		ASV1076
+ASV1077	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-002		ASV1077
+ASV1078	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-002		ASV1078
+ASV1079	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-002		ASV1079
+ASV1080	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-002		ASV1080
+ASV1081	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-002		ASV1081
+ASV1082	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-003		ASV1082
+ASV1083	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-003		ASV1083
+ASV1084	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-004		ASV1084
+ASV1085	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1085
+ASV1086	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1086
+ASV1087	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1087
+ASV1088	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1088
+ASV1089	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1089
+ASV1090	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1090
+ASV1091	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1091
+ASV1092	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1092
+ASV1093	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1093
+ASV1094	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-005		ASV1094
+ASV1095	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-010		ASV1095
+ASV1096	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013		ASV1096
+ASV1097	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013		ASV1097
+ASV1098	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013		ASV1098
+ASV1099	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013		ASV1099
+ASV1100	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-013		ASV1100
+ASV1101	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014		ASV1101
+ASV1102	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014		ASV1102
+ASV1103	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014		ASV1103
+ASV1104	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014		ASV1104
+ASV1105	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014		ASV1105
+ASV1106	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcaceae UCG-014		ASV1106
+ASV1107	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1		ASV1107
+ASV1108	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 1		ASV1108
+ASV1109	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Ruminococcus 2		ASV1109
+ASV1110	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum		ASV1110
+ASV1111	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum		ASV1111
+ASV1112	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	Subdoligranulum		ASV1112
+ASV1113	Bacteria	Firmicutes	Clostridia	Clostridiales	Ruminococcaceae	UBA1819		ASV1113
+ASV1114	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Dielma		ASV1114
+ASV1115	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae UCG-003		ASV1115
+ASV1116	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Erysipelotrichaceae UCG-003		ASV1116
+ASV1117	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Firmicutes bacterium CAG:345		ASV1117
+ASV1118	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella		ASV1118
+ASV1119	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella		ASV1119
+ASV1120	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Holdemanella		ASV1120
+ASV1121	Bacteria	Firmicutes	Erysipelotrichia	Erysipelotrichales	Erysipelotrichaceae	Turicibacter		ASV1121
+ASV1122	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Phascolarctobacterium		ASV1122
+ASV1123	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Acidaminococcaceae	Phascolarctobacterium		ASV1123
+ASV1124	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Allisonella		ASV1124
+ASV1125	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister		ASV1125
+ASV1126	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister		ASV1126
+ASV1127	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Dialister		ASV1127
+ASV1128	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Selenomonas 3		ASV1128
+ASV1129	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Sporomusa		ASV1129
+ASV1130	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae			ASV1130
+ASV1131	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1131
+ASV1132	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1132
+ASV1133	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1133
+ASV1134	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1134
+ASV1135	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1135
+ASV1136	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1136
+ASV1137	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1137
+ASV1138	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1138
+ASV1139	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1139
+ASV1140	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1140
+ASV1141	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1141
+ASV1142	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1142
+ASV1143	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1143
+ASV1144	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1144
+ASV1145	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1145
+ASV1146	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1146
+ASV1147	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1147
+ASV1148	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1148
+ASV1149	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1149
+ASV1150	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1150
+ASV1151	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1151
+ASV1152	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1152
+ASV1153	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1153
+ASV1154	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1154
+ASV1155	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1155
+ASV1156	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1156
+ASV1157	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1157
+ASV1158	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1158
+ASV1159	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1159
+ASV1160	Bacteria	Firmicutes	Negativicutes	Selenomonadales	Veillonellaceae	Veillonella		ASV1160
+ASV1161	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium		ASV1161
+ASV1162	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium		ASV1162
+ASV1163	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium		ASV1163
+ASV1164	Bacteria	Fusobacteria	Fusobacteriia	Fusobacteriales	Fusobacteriaceae	Fusobacterium		ASV1164
+ASV1165	Bacteria	Gemmatimonadetes	BD2-11 terrestrial group					ASV1165
+ASV1166	Bacteria	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatirosa		ASV1166
+ASV1167	Bacteria	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae	Gemmatirosa		ASV1167
+ASV1168	Bacteria	Gemmatimonadetes	Gemmatimonadetes	Gemmatimonadales	Gemmatimonadaceae			ASV1168
+ASV1169	Bacteria	Nitrospirae	Nitrospira	Nitrospirales	Nitrospiraceae	Nitrospira		ASV1169
+ASV1170	Bacteria	Nitrospirae	Thermodesulfovibrionia					ASV1170
+ASV1171	Bacteria	Nitrospirae	Thermodesulfovibrionia					ASV1171
+ASV1172	Bacteria	Omnitrophicaeota						ASV1172
+ASV1173	Bacteria	Omnitrophicaeota						ASV1173
+ASV1174	Bacteria	Omnitrophicaeota						ASV1174
+ASV1175	Bacteria	Omnitrophicaeota						ASV1175
+ASV1176	Bacteria	Omnitrophicaeota						ASV1176
+ASV1177	Bacteria	Omnitrophicaeota						ASV1177
+ASV1178	Bacteria	Omnitrophicaeota						ASV1178
+ASV1179	Bacteria	Omnitrophicaeota						ASV1179
+ASV1180	Bacteria	Omnitrophicaeota						ASV1180
+ASV1181	Bacteria	Omnitrophicaeota						ASV1181
+ASV1182	Bacteria	Patescibacteria	Gracilibacteria	Absconditabacteriales (SR1)				ASV1182
+ASV1183	Bacteria	Patescibacteria	Gracilibacteria	Candidatus Abawacabacteria				ASV1183
+ASV1184	Bacteria	Patescibacteria	Microgenomatia	Candidatus Gottesmanbacteria				ASV1184
+ASV1185	Bacteria	Patescibacteria	Parcubacteria					ASV1185
+ASV1186	Bacteria	Planctomycetes	OM190					ASV1186
+ASV1187	Bacteria	Planctomycetes	OM190					ASV1187
+ASV1188	Bacteria	Planctomycetes	OM190					ASV1188
+ASV1189	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae	Gemmata		ASV1189
+ASV1190	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae	Gemmata		ASV1190
+ASV1191	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae			ASV1191
+ASV1192	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae			ASV1192
+ASV1193	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae			ASV1193
+ASV1194	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae			ASV1194
+ASV1195	Bacteria	Planctomycetes	Planctomycetacia	Gemmatales	Gemmataceae			ASV1195
+ASV1196	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales	Schlesneriaceae	Schlesneria		ASV1196
+ASV1197	Bacteria	Planctomycetes	Planctomycetacia	Planctomycetales				ASV1197
+ASV1198	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae			ASV1198
+ASV1199	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae			ASV1199
+ASV1200	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1200
+ASV1201	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1201
+ASV1202	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1202
+ASV1203	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1203
+ASV1204	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1204
+ASV1205	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1205
+ASV1206	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1206
+ASV1207	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1207
+ASV1208	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1208
+ASV1209	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1209
+ASV1210	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1210
+ASV1211	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1211
+ASV1212	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1212
+ASV1213	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1213
+ASV1214	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1214
+ASV1215	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1215
+ASV1216	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Craurococcus		ASV1216
+ASV1217	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas		ASV1217
+ASV1218	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas		ASV1218
+ASV1219	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas		ASV1219
+ASV1220	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas		ASV1220
+ASV1221	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas		ASV1221
+ASV1222	Bacteria	Proteobacteria	Alphaproteobacteria	Acetobacterales	Acetobacteraceae	Roseomonas		ASV1222
+ASV1223	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1223
+ASV1224	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1224
+ASV1225	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1225
+ASV1226	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1226
+ASV1227	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1227
+ASV1228	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1228
+ASV1229	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1229
+ASV1230	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1230
+ASV1231	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1231
+ASV1232	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1232
+ASV1233	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1233
+ASV1234	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas diminuta	ASV1234
+ASV1235	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas diminuta	ASV1235
+ASV1236	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas diminuta	ASV1236
+ASV1237	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas diminuta	ASV1237
+ASV1238	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas	Brevundimonas vesicularis	ASV1238
+ASV1239	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1239
+ASV1240	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1240
+ASV1241	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1241
+ASV1242	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1242
+ASV1243	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Brevundimonas		ASV1243
+ASV1244	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1244
+ASV1245	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1245
+ASV1246	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1246
+ASV1247	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1247
+ASV1248	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1248
+ASV1249	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1249
+ASV1250	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1250
+ASV1251	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1251
+ASV1252	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1252
+ASV1253	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1253
+ASV1254	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1254
+ASV1255	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1255
+ASV1256	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Caulobacter		ASV1256
+ASV1257	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae	Phenylobacterium		ASV1257
+ASV1258	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1258
+ASV1259	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1259
+ASV1260	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1260
+ASV1261	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1261
+ASV1262	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1262
+ASV1263	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1263
+ASV1264	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1264
+ASV1265	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1265
+ASV1266	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1266
+ASV1267	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1267
+ASV1268	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1268
+ASV1269	Bacteria	Proteobacteria	Alphaproteobacteria	Caulobacterales	Caulobacteraceae			ASV1269
+ASV1270	Bacteria	Proteobacteria	Alphaproteobacteria	Elsterales				ASV1270
+ASV1271	Bacteria	Proteobacteria	Alphaproteobacteria	Holosporales	Holosporaceae			ASV1271
+ASV1272	Bacteria	Proteobacteria	Alphaproteobacteria	Holosporales	Holosporaceae			ASV1272
+ASV1273	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales				ASV1273
+ASV1274	Bacteria	Proteobacteria	Alphaproteobacteria	Micavibrionales				ASV1274
+ASV1275	Bacteria	Proteobacteria	Alphaproteobacteria	Micropepsales	Micropepsaceae			ASV1275
+ASV1276	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae	Candidatus Captivus		ASV1276
+ASV1277	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae	Candidatus Paracaedibacter		ASV1277
+ASV1278	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae			ASV1278
+ASV1279	Bacteria	Proteobacteria	Alphaproteobacteria	Paracaedibacterales	Paracaedibacteraceae			ASV1279
+ASV1280	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella		ASV1280
+ASV1281	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella		ASV1281
+ASV1282	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella		ASV1282
+ASV1283	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella		ASV1283
+ASV1284	Bacteria	Proteobacteria	Alphaproteobacteria	Reyranellales	Reyranellaceae	Reyranella		ASV1284
+ASV1285	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae			ASV1285
+ASV1286	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae			ASV1286
+ASV1287	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae			ASV1287
+ASV1288	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	alphaI cluster		ASV1288
+ASV1289	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	alphaI cluster		ASV1289
+ASV1290	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	alphaI cluster		ASV1290
+ASV1291	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	alphaI cluster		ASV1291
+ASV1292	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea		ASV1292
+ASV1293	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea		ASV1293
+ASV1294	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Bosea		ASV1294
+ASV1295	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1295
+ASV1296	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1296
+ASV1297	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	Methylobacterium aquaticum	ASV1297
+ASV1298	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium	Methylobacterium radiotolerans	ASV1298
+ASV1299	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1299
+ASV1300	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1300
+ASV1301	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1301
+ASV1302	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1302
+ASV1303	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1303
+ASV1304	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1304
+ASV1305	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1305
+ASV1306	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1306
+ASV1307	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Methylobacterium		ASV1307
+ASV1308	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Microvirga		ASV1308
+ASV1309	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae	Psychroglaciecola		ASV1309
+ASV1310	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae			ASV1310
+ASV1311	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Beijerinckiaceae			ASV1311
+ASV1312	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Hyphomicrobiaceae	Pedomicrobium		ASV1312
+ASV1313	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae			ASV1313
+ASV1314	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae			ASV1314
+ASV1315	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium		ASV1315
+ASV1316	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Aminobacter		ASV1316
+ASV1317	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Mesorhizobium		ASV1317
+ASV1318	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1318
+ASV1319	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1319
+ASV1320	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1320
+ASV1321	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1321
+ASV1322	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1322
+ASV1323	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1323
+ASV1324	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1324
+ASV1325	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1325
+ASV1326	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1326
+ASV1327	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Ochrobactrum		ASV1327
+ASV1328	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium		ASV1328
+ASV1329	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium		ASV1329
+ASV1330	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium		ASV1330
+ASV1331	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium		ASV1331
+ASV1332	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Phyllobacterium		ASV1332
+ASV1333	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae	Pseudochrobactrum		ASV1333
+ASV1334	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae			ASV1334
+ASV1335	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiaceae			ASV1335
+ASV1336	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Rhizobiales Incertae Sedis			ASV1336
+ASV1337	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae			ASV1337
+ASV1338	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae			ASV1338
+ASV1339	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae			ASV1339
+ASV1340	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1340
+ASV1341	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1341
+ASV1342	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1342
+ASV1343	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1343
+ASV1344	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1344
+ASV1345	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1345
+ASV1346	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Afipia		ASV1346
+ASV1347	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1347
+ASV1348	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1348
+ASV1349	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1349
+ASV1350	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1350
+ASV1351	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1351
+ASV1352	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1352
+ASV1353	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1353
+ASV1354	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1354
+ASV1355	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Bradyrhizobium		ASV1355
+ASV1356	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys		ASV1356
+ASV1357	Bacteria	Proteobacteria	Alphaproteobacteria	Rhizobiales	Xanthobacteraceae	Pseudolabrys		ASV1357
+ASV1358	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae			ASV1358
+ASV1359	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae			ASV1359
+ASV1360	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae			ASV1360
+ASV1361	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae			ASV1361
+ASV1362	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1362
+ASV1363	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1363
+ASV1364	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1364
+ASV1365	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1365
+ASV1366	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1366
+ASV1367	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1367
+ASV1368	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1368
+ASV1369	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1369
+ASV1370	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1370
+ASV1371	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1371
+ASV1372	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1372
+ASV1373	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1373
+ASV1374	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1374
+ASV1375	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1375
+ASV1376	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1376
+ASV1377	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Paracoccus		ASV1377
+ASV1378	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rhodobacter		ASV1378
+ASV1379	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium		ASV1379
+ASV1380	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium		ASV1380
+ASV1381	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium		ASV1381
+ASV1382	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium		ASV1382
+ASV1383	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium		ASV1383
+ASV1384	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodobacterales	Rhodobacteraceae	Rubellimicrobium		ASV1384
+ASV1385	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales	Rhodospirillaceae			ASV1385
+ASV1386	Bacteria	Proteobacteria	Alphaproteobacteria	Rhodospirillales				ASV1386
+ASV1387	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12			ASV1387
+ASV1388	Bacteria	Proteobacteria	Alphaproteobacteria	Rickettsiales	SM2D12			ASV1388
+ASV1389	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae			ASV1389
+ASV1390	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Altererythrobacter		ASV1390
+ASV1391	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Erythrobacter		ASV1391
+ASV1392	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium		ASV1392
+ASV1393	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium		ASV1393
+ASV1394	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium		ASV1394
+ASV1395	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Novosphingobium		ASV1395
+ASV1396	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingoaurantiacus		ASV1396
+ASV1397	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingobium		ASV1397
+ASV1398	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1398
+ASV1399	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1399
+ASV1400	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1400
+ASV1401	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1401
+ASV1402	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1402
+ASV1403	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1403
+ASV1404	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1404
+ASV1405	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1405
+ASV1406	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1406
+ASV1407	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1407
+ASV1408	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1408
+ASV1409	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1409
+ASV1410	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1410
+ASV1411	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1411
+ASV1412	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1412
+ASV1413	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1413
+ASV1414	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1414
+ASV1415	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1415
+ASV1416	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1416
+ASV1417	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1417
+ASV1418	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1418
+ASV1419	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1419
+ASV1420	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1420
+ASV1421	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1421
+ASV1422	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1422
+ASV1423	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1423
+ASV1424	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1424
+ASV1425	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1425
+ASV1426	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1426
+ASV1427	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas paucimobilis	ASV1427
+ASV1428	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas paucimobilis	ASV1428
+ASV1429	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas	Sphingomonas paucimobilis	ASV1429
+ASV1430	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1430
+ASV1431	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1431
+ASV1432	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1432
+ASV1433	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1433
+ASV1434	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1434
+ASV1435	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1435
+ASV1436	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1436
+ASV1437	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1437
+ASV1438	Bacteria	Proteobacteria	Alphaproteobacteria	Sphingomonadales	Sphingomonadaceae	Sphingomonas		ASV1438
+ASV1439	Bacteria	Proteobacteria	Alphaproteobacteria	Thalassobaculales				ASV1439
+ASV1440	Bacteria	Proteobacteria	Alphaproteobacteria					ASV1440
+ASV1441	Bacteria	Proteobacteria	Alphaproteobacteria					ASV1441
+ASV1442	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Bacteriovorax		ASV1442
+ASV1443	Bacteria	Proteobacteria	Deltaproteobacteria	Bdellovibrionales	Bacteriovoracaceae	Bacteriovorax		ASV1443
+ASV1444	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfobacterales	Desulfobulbaceae	Desulfocapsa		ASV1444
+ASV1445	Bacteria	Proteobacteria	Deltaproteobacteria	Desulfovibrionales	Desulfovibrionaceae	Bilophila		ASV1445
+ASV1446	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	bacteriap25			ASV1446
+ASV1447	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	bacteriap25			ASV1447
+ASV1448	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	bacteriap25			ASV1448
+ASV1449	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	mle1-27			ASV1449
+ASV1450	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae			ASV1450
+ASV1451	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Pajaroellobacter		ASV1451
+ASV1452	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Pajaroellobacter		ASV1452
+ASV1453	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Pajaroellobacter		ASV1453
+ASV1454	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Pajaroellobacter		ASV1454
+ASV1455	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae	Pajaroellobacter		ASV1455
+ASV1456	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales	Polyangiaceae			ASV1456
+ASV1457	Bacteria	Proteobacteria	Deltaproteobacteria	Myxococcales				ASV1457
+ASV1458	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	0319-6G20			ASV1458
+ASV1459	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	0319-6G20			ASV1459
+ASV1460	Bacteria	Proteobacteria	Deltaproteobacteria	Oligoflexales	Oligoflexaceae			ASV1460
+ASV1461	Bacteria	Proteobacteria	Deltaproteobacteria	PB19				ASV1461
+ASV1462	Bacteria	Proteobacteria	Gammaproteobacteria					ASV1462
+ASV1463	Bacteria	Proteobacteria	Gammaproteobacteria					ASV1463
+ASV1464	Bacteria	Proteobacteria	Gammaproteobacteria					ASV1464
+ASV1465	Bacteria	Proteobacteria	Gammaproteobacteria					ASV1465
+ASV1466	Bacteria	Proteobacteria	Gammaproteobacteria					ASV1466
+ASV1467	Bacteria	Proteobacteria	Gammaproteobacteria	Acidiferrobacterales	Acidiferrobacteraceae	Sulfurifustis		ASV1467
+ASV1468	Bacteria	Proteobacteria	Gammaproteobacteria	Acidiferrobacterales	Acidiferrobacteraceae	Sulfurifustis		ASV1468
+ASV1469	Bacteria	Proteobacteria	Gammaproteobacteria	Acidiferrobacterales	Acidiferrobacteraceae	Sulfurifustis		ASV1469
+ASV1470	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1470
+ASV1471	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1471
+ASV1472	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1472
+ASV1473	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1473
+ASV1474	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1474
+ASV1475	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1475
+ASV1476	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1476
+ASV1477	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1477
+ASV1478	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1478
+ASV1479	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1479
+ASV1480	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1480
+ASV1481	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1481
+ASV1482	Bacteria	Proteobacteria	Gammaproteobacteria	Aeromonadales	Aeromonadaceae	Aeromonas		ASV1482
+ASV1483	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Idiomarinaceae	Aliidiomarina		ASV1483
+ASV1484	Bacteria	Proteobacteria	Gammaproteobacteria	Alteromonadales	Shewanellaceae	Shewanella		ASV1484
+ASV1485	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales				ASV1485
+ASV1486	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales				ASV1486
+ASV1487	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales				ASV1487
+ASV1488	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales				ASV1488
+ASV1489	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1489
+ASV1490	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1490
+ASV1491	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1491
+ASV1492	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1492
+ASV1493	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1493
+ASV1494	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1494
+ASV1495	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1495
+ASV1496	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1496
+ASV1497	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1497
+ASV1498	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1498
+ASV1499	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1499
+ASV1500	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1500
+ASV1501	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1501
+ASV1502	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1502
+ASV1503	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1503
+ASV1504	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1504
+ASV1505	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1505
+ASV1506	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1506
+ASV1507	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1507
+ASV1508	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1508
+ASV1509	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1509
+ASV1510	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1510
+ASV1511	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1511
+ASV1512	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1512
+ASV1513	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1513
+ASV1514	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1514
+ASV1515	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1515
+ASV1516	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1516
+ASV1517	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1517
+ASV1518	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1518
+ASV1519	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1519
+ASV1520	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1520
+ASV1521	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1521
+ASV1522	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1522
+ASV1523	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1523
+ASV1524	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1524
+ASV1525	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1525
+ASV1526	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1526
+ASV1527	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1527
+ASV1528	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1528
+ASV1529	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1529
+ASV1530	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1530
+ASV1531	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1531
+ASV1532	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1532
+ASV1533	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1533
+ASV1534	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1534
+ASV1535	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1535
+ASV1536	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1536
+ASV1537	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1537
+ASV1538	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1538
+ASV1539	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1539
+ASV1540	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	AAP99		ASV1540
+ASV1541	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1541
+ASV1542	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1542
+ASV1543	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1543
+ASV1544	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1544
+ASV1545	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1545
+ASV1546	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1546
+ASV1547	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1547
+ASV1548	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Achromobacter		ASV1548
+ASV1549	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Alcaligenes		ASV1549
+ASV1550	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Alcaligenes		ASV1550
+ASV1551	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Alcaligenes	Alcaligenes faecalis	ASV1551
+ASV1552	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Alcaligenes		ASV1552
+ASV1553	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1553
+ASV1554	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1554
+ASV1555	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1555
+ASV1556	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1556
+ASV1557	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1557
+ASV1558	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1558
+ASV1559	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1559
+ASV1560	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Aquabacterium		ASV1560
+ASV1561	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Bordetella		ASV1561
+ASV1562	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia		ASV1562
+ASV1563	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia		ASV1563
+ASV1564	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia		ASV1564
+ASV1565	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Burkholderia-Caballeronia-Paraburkholderia		ASV1565
+ASV1566	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1566
+ASV1567	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1567
+ASV1568	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1568
+ASV1569	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1569
+ASV1570	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1570
+ASV1571	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1571
+ASV1572	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1572
+ASV1573	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1573
+ASV1574	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Cupriavidus		ASV1574
+ASV1575	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Curvibacter		ASV1575
+ASV1576	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Curvibacter		ASV1576
+ASV1577	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Curvibacter		ASV1577
+ASV1578	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Curvibacter		ASV1578
+ASV1579	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Curvibacter		ASV1579
+ASV1580	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Delftia		ASV1580
+ASV1581	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Delftia		ASV1581
+ASV1582	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Delftia		ASV1582
+ASV1583	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Delftia		ASV1583
+ASV1584	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herbaspirillum		ASV1584
+ASV1585	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herbaspirillum		ASV1585
+ASV1586	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herbaspirillum		ASV1586
+ASV1587	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herminiimonas		ASV1587
+ASV1588	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herminiimonas		ASV1588
+ASV1589	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herminiimonas		ASV1589
+ASV1590	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Herminiimonas		ASV1590
+ASV1591	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Janthinobacterium		ASV1591
+ASV1592	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Lautropia		ASV1592
+ASV1593	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Massilia		ASV1593
+ASV1594	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Massilia		ASV1594
+ASV1595	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea		ASV1595
+ASV1596	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea		ASV1596
+ASV1597	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1597
+ASV1598	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1598
+ASV1599	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1599
+ASV1600	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1600
+ASV1601	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1601
+ASV1602	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1602
+ASV1603	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pandoraea	Pandoraea pnomenusa	ASV1603
+ASV1604	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Parasutterella		ASV1604
+ASV1605	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Parasutterella		ASV1605
+ASV1606	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Parasutterella		ASV1606
+ASV1607	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1607
+ASV1608	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1608
+ASV1609	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1609
+ASV1610	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1610
+ASV1611	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1611
+ASV1612	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1612
+ASV1613	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1613
+ASV1614	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1614
+ASV1615	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Pelomonas		ASV1615
+ASV1616	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1616
+ASV1617	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1617
+ASV1618	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1618
+ASV1619	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1619
+ASV1620	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1620
+ASV1621	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1621
+ASV1622	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1622
+ASV1623	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1623
+ASV1624	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1624
+ASV1625	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1625
+ASV1626	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1626
+ASV1627	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1627
+ASV1628	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1628
+ASV1629	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1629
+ASV1630	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1630
+ASV1631	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	ASV1631
+ASV1632	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	ASV1632
+ASV1633	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	ASV1633
+ASV1634	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	ASV1634
+ASV1635	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia	Ralstonia pickettii	ASV1635
+ASV1636	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Ralstonia		ASV1636
+ASV1637	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Tepidimonas		ASV1637
+ASV1638	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Tepidimonas		ASV1638
+ASV1639	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Tepidimonas		ASV1639
+ASV1640	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae			ASV1640
+ASV1641	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Undibacterium		ASV1641
+ASV1642	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Undibacterium		ASV1642
+ASV1643	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Burkholderiaceae	Variovorax		ASV1643
+ASV1644	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae			ASV1644
+ASV1645	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Candidatus Nitrotoga		ASV1645
+ASV1646	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Candidatus Nitrotoga		ASV1646
+ASV1647	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Candidatus Nitrotoga		ASV1647
+ASV1648	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Candidatus Nitrotoga		ASV1648
+ASV1649	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Candidatus Nitrotoga		ASV1649
+ASV1650	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Candidatus Nitrotoga		ASV1650
+ASV1651	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Gallionella		ASV1651
+ASV1652	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Gallionellaceae	Gallionella		ASV1652
+ASV1653	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Methylophilaceae			ASV1653
+ASV1654	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Methylophilaceae			ASV1654
+ASV1655	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Methylophilaceae			ASV1655
+ASV1656	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Methylophilaceae			ASV1656
+ASV1657	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	Eikenella		ASV1657
+ASV1658	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	Neisseria		ASV1658
+ASV1659	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae	Neisseria		ASV1659
+ASV1660	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae			ASV1660
+ASV1661	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Neisseriaceae			ASV1661
+ASV1662	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Nitrosomonadaceae	MND1		ASV1662
+ASV1663	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Nitrosomonadaceae			ASV1663
+ASV1664	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1664
+ASV1665	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1665
+ASV1666	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1666
+ASV1667	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1667
+ASV1668	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1668
+ASV1669	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1669
+ASV1670	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1670
+ASV1671	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1671
+ASV1672	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae			ASV1672
+ASV1673	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1673
+ASV1674	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1674
+ASV1675	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1675
+ASV1676	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1676
+ASV1677	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1677
+ASV1678	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1678
+ASV1679	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1679
+ASV1680	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1680
+ASV1681	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1681
+ASV1682	Bacteria	Proteobacteria	Gammaproteobacteria	Betaproteobacteriales	Rhodocyclaceae	Sulfuritalea		ASV1682
+ASV1683	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae			ASV1683
+ASV1684	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae			ASV1684
+ASV1685	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae			ASV1685
+ASV1686	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae			ASV1686
+ASV1687	Bacteria	Proteobacteria	Gammaproteobacteria	Diplorickettsiales	Diplorickettsiaceae			ASV1687
+ASV1688	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1688
+ASV1689	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1689
+ASV1690	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1690
+ASV1691	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1691
+ASV1692	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1692
+ASV1693	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1693
+ASV1694	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1694
+ASV1695	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1695
+ASV1696	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1696
+ASV1697	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1697
+ASV1698	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1698
+ASV1699	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1699
+ASV1700	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1700
+ASV1701	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1701
+ASV1702	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1702
+ASV1703	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1703
+ASV1704	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1704
+ASV1705	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1705
+ASV1706	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1706
+ASV1707	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1707
+ASV1708	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1708
+ASV1709	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1709
+ASV1710	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1710
+ASV1711	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1711
+ASV1712	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1712
+ASV1713	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1713
+ASV1714	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1714
+ASV1715	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1715
+ASV1716	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1716
+ASV1717	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1717
+ASV1718	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1718
+ASV1719	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1719
+ASV1720	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1720
+ASV1721	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1721
+ASV1722	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae			ASV1722
+ASV1723	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1723
+ASV1724	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1724
+ASV1725	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1725
+ASV1726	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1726
+ASV1727	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1727
+ASV1728	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1728
+ASV1729	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1729
+ASV1730	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1730
+ASV1731	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1731
+ASV1732	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1732
+ASV1733	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1733
+ASV1734	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Enterobacter		ASV1734
+ASV1735	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1735
+ASV1736	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1736
+ASV1737	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1737
+ASV1738	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1738
+ASV1739	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1739
+ASV1740	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1740
+ASV1741	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1741
+ASV1742	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1742
+ASV1743	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1743
+ASV1744	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1744
+ASV1745	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1745
+ASV1746	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1746
+ASV1747	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1747
+ASV1748	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1748
+ASV1749	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1749
+ASV1750	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1750
+ASV1751	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1751
+ASV1752	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1752
+ASV1753	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1753
+ASV1754	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1754
+ASV1755	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1755
+ASV1756	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1756
+ASV1757	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1757
+ASV1758	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1758
+ASV1759	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1759
+ASV1760	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1760
+ASV1761	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1761
+ASV1762	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1762
+ASV1763	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1763
+ASV1764	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1764
+ASV1765	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1765
+ASV1766	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1766
+ASV1767	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1767
+ASV1768	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1768
+ASV1769	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1769
+ASV1770	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1770
+ASV1771	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1771
+ASV1772	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1772
+ASV1773	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1773
+ASV1774	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Escherichia-Shigella		ASV1774
+ASV1775	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella		ASV1775
+ASV1776	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella		ASV1776
+ASV1777	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella		ASV1777
+ASV1778	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella		ASV1778
+ASV1779	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	ASV1779
+ASV1780	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	ASV1780
+ASV1781	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	ASV1781
+ASV1782	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Klebsiella	Klebsiella oxytoca	ASV1782
+ASV1783	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Pantoea		ASV1783
+ASV1784	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1784
+ASV1785	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1785
+ASV1786	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1786
+ASV1787	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1787
+ASV1788	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1788
+ASV1789	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1789
+ASV1790	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1790
+ASV1791	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1791
+ASV1792	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1792
+ASV1793	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia	Serratia marcescens	ASV1793
+ASV1794	Bacteria	Proteobacteria	Gammaproteobacteria	Enterobacteriales	Enterobacteriaceae	Serratia		ASV1794
+ASV1795	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis				ASV1795
+ASV1796	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis				ASV1796
+ASV1797	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis				ASV1797
+ASV1798	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis				ASV1798
+ASV1799	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis				ASV1799
+ASV1800	Bacteria	Proteobacteria	Gammaproteobacteria	Gammaproteobacteria Incertae Sedis				ASV1800
+ASV1801	Bacteria	Proteobacteria	Gammaproteobacteria	Legionellales	Legionellaceae	Legionella		ASV1801
+ASV1802	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas		ASV1802
+ASV1803	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas		ASV1803
+ASV1804	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas		ASV1804
+ASV1805	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas		ASV1805
+ASV1806	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas		ASV1806
+ASV1807	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Halomonadaceae	Halomonas		ASV1807
+ASV1808	Bacteria	Proteobacteria	Gammaproteobacteria	Oceanospirillales	Marinomonadaceae	Marinomonas		ASV1808
+ASV1809	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae			ASV1809
+ASV1810	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae			ASV1810
+ASV1811	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1811
+ASV1812	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1812
+ASV1813	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1813
+ASV1814	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1814
+ASV1815	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1815
+ASV1816	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1816
+ASV1817	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1817
+ASV1818	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1818
+ASV1819	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus	ASV1819
+ASV1820	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus	Haemophilus haemolyticus	ASV1820
+ASV1821	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1821
+ASV1822	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1822
+ASV1823	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1823
+ASV1824	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1824
+ASV1825	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1825
+ASV1826	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1826
+ASV1827	Bacteria	Proteobacteria	Gammaproteobacteria	Pasteurellales	Pasteurellaceae	Haemophilus		ASV1827
+ASV1828	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1828
+ASV1829	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1829
+ASV1830	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1830
+ASV1831	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1831
+ASV1832	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1832
+ASV1833	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1833
+ASV1834	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1834
+ASV1835	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1835
+ASV1836	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1836
+ASV1837	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1837
+ASV1838	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1838
+ASV1839	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1839
+ASV1840	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1840
+ASV1841	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1841
+ASV1842	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1842
+ASV1843	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1843
+ASV1844	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1844
+ASV1845	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1845
+ASV1846	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1846
+ASV1847	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1847
+ASV1848	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1848
+ASV1849	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1849
+ASV1850	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1850
+ASV1851	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1851
+ASV1852	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1852
+ASV1853	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1853
+ASV1854	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1854
+ASV1855	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1855
+ASV1856	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1856
+ASV1857	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1857
+ASV1858	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1858
+ASV1859	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	ASV1859
+ASV1860	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter baumannii	ASV1860
+ASV1861	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter calcoaceticus	ASV1861
+ASV1862	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter calcoaceticus	ASV1862
+ASV1863	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter calcoaceticus	ASV1863
+ASV1864	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter calcoaceticus	ASV1864
+ASV1865	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter	Acinetobacter lwoffii	ASV1865
+ASV1866	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1866
+ASV1867	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1867
+ASV1868	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Acinetobacter		ASV1868
+ASV1869	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter		ASV1869
+ASV1870	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter		ASV1870
+ASV1871	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter		ASV1871
+ASV1872	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Enhydrobacter		ASV1872
+ASV1873	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Moraxellaceae	Moraxella		ASV1873
+ASV1874	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1874
+ASV1875	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1875
+ASV1876	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1876
+ASV1877	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1877
+ASV1878	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1878
+ASV1879	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1879
+ASV1880	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1880
+ASV1881	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1881
+ASV1882	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1882
+ASV1883	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1883
+ASV1884	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1884
+ASV1885	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1885
+ASV1886	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1886
+ASV1887	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1887
+ASV1888	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1888
+ASV1889	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1889
+ASV1890	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1890
+ASV1891	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1891
+ASV1892	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1892
+ASV1893	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1893
+ASV1894	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1894
+ASV1895	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1895
+ASV1896	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1896
+ASV1897	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1897
+ASV1898	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1898
+ASV1899	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1899
+ASV1900	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1900
+ASV1901	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1901
+ASV1902	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1902
+ASV1903	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1903
+ASV1904	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1904
+ASV1905	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1905
+ASV1906	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1906
+ASV1907	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1907
+ASV1908	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1908
+ASV1909	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1909
+ASV1910	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1910
+ASV1911	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1911
+ASV1912	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1912
+ASV1913	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1913
+ASV1914	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas		ASV1914
+ASV1915	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1915
+ASV1916	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1916
+ASV1917	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1917
+ASV1918	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1918
+ASV1919	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1919
+ASV1920	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1920
+ASV1921	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1921
+ASV1922	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1922
+ASV1923	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1923
+ASV1924	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1924
+ASV1925	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1925
+ASV1926	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1926
+ASV1927	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas fragi	ASV1927
+ASV1928	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas peli	ASV1928
+ASV1929	Bacteria	Proteobacteria	Gammaproteobacteria	Pseudomonadales	Pseudomonadaceae	Pseudomonas	Pseudomonas stutzeri	ASV1929
+ASV1930	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae	Panacagrimonas		ASV1930
+ASV1931	Bacteria	Proteobacteria	Gammaproteobacteria	Salinisphaerales	Solimonadaceae			ASV1931
+ASV1932	Bacteria	Proteobacteria	Gammaproteobacteria					ASV1932
+ASV1933	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1933
+ASV1934	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1934
+ASV1935	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1935
+ASV1936	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1936
+ASV1937	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1937
+ASV1938	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1938
+ASV1939	Bacteria	Proteobacteria	Gammaproteobacteria	Vibrionales	Vibrionaceae	Vibrio		ASV1939
+ASV1940	Bacteria	Proteobacteria	Gammaproteobacteria	WD260				ASV1940
+ASV1941	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella		ASV1941
+ASV1942	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Dyella		ASV1942
+ASV1943	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Luteibacter		ASV1943
+ASV1944	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter		ASV1944
+ASV1945	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae	Rhodanobacter		ASV1945
+ASV1946	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae			ASV1946
+ASV1947	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Rhodanobacteraceae			ASV1947
+ASV1948	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas		ASV1948
+ASV1949	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Pseudoxanthomonas		ASV1949
+ASV1950	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1950
+ASV1951	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1951
+ASV1952	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1952
+ASV1953	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1953
+ASV1954	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1954
+ASV1955	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1955
+ASV1956	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1956
+ASV1957	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1957
+ASV1958	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1958
+ASV1959	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1959
+ASV1960	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1960
+ASV1961	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1961
+ASV1962	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1962
+ASV1963	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1963
+ASV1964	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1964
+ASV1965	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1965
+ASV1966	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1966
+ASV1967	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1967
+ASV1968	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1968
+ASV1969	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1969
+ASV1970	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1970
+ASV1971	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1971
+ASV1972	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1972
+ASV1973	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1973
+ASV1974	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1974
+ASV1975	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Stenotrophomonas		ASV1975
+ASV1976	Bacteria	Proteobacteria	Gammaproteobacteria	Xanthomonadales	Xanthomonadaceae	Vulcaniibacterium		ASV1976
+ASV1977	Bacteria	Spirochaetes	Leptospirae	Leptospirales	Leptospiraceae	Leptospira	Leptospira interrogans serovar Copenhageni str. M20	ASV1977
+ASV1978	Bacteria	Spirochaetes	Leptospirae	Leptospirales	Leptospiraceae	Turneriella		ASV1978
+ASV1979	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Jonquetella	Jonquetella anthropi DSM 22815	ASV1979
+ASV1980	Bacteria	Synergistetes	Synergistia	Synergistales	Synergistaceae	Jonquetella	Jonquetella anthropi DSM 22815	ASV1980
+ASV1981	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39				ASV1981
+ASV1982	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39				ASV1982
+ASV1983	Bacteria	Tenericutes	Mollicutes	Mollicutes RF39				ASV1983
+ASV1984	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Mycoplasma		ASV1984
+ASV1985	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1985
+ASV1986	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1986
+ASV1987	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1987
+ASV1988	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1988
+ASV1989	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1989
+ASV1990	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1990
+ASV1991	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1991
+ASV1992	Bacteria	Tenericutes	Mollicutes	Mycoplasmatales	Mycoplasmataceae	Ureaplasma		ASV1992
+ASV1993	Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae			ASV1993
+ASV1994	Bacteria	Verrucomicrobia	Verrucomicrobiae	Pedosphaerales	Pedosphaeraceae			ASV1994
+ASV1995	Bacteria	Verrucomicrobia	Verrucomicrobiae	Verrucomicrobiales	Akkermansiaceae	Akkermansia		ASV1995
+ASV1996	Bacteria	WPS-2						ASV1996
