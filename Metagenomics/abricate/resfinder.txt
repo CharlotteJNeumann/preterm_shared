@@ -1,0 +1,290 @@
+database	center	child	timepoint	bin	bin_name	gene	diff	type
+resfinder	G	G03	3	1	G03_3_bin_001	none	1	none
+resfinder	G	G03	3	2	G03_3_bin_002	none	1	none
+resfinder	G	G03	7	1	G03_7_bin_001	none	1	none
+resfinder	G	G03	7	2	G03_7_bin_002	none	1	none
+resfinder	G	G03	7	contig	G03_7_contig	aadD		contig
+resfinder	G	G03	7	contig	G03_7_contig	erm(T)		contig
+resfinder	G	G05	3	1	G05_3_bin_001	none	1	none
+resfinder	G	G05	3	2	G05_3_bin_002	none	1	none
+resfinder	G	G05	7	1	G05_7_bin_001	none	1	none
+resfinder	G	G05	7	2	G05_7_bin_002	none	1	none
+resfinder	G	G05	7	3	G05_7_bin_003	none	1	none
+resfinder	G	G11	3	1	G11_3_bin_001	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G11	3	2	G11_3_bin_002	none	1	none
+resfinder	G	G11	7	1	G11_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G11	7	1	G11_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G11	7	1	G11_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G11	7	1	G11_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G11	7	2	G11_7_bin_002	none	1	none
+resfinder	G	G11	7	3	G11_7_bin_003	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G11	7	3	G11_7_bin_003	aph(3')-III	Amikacin	bin
+resfinder	G	G11	7	3	G11_7_bin_003	msr(A)	Erythromycin;Azithromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G11	7	3	G11_7_bin_003	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G11	7	3	G11_7_bin_003	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	G	G11	7	3	G11_7_bin_003	mph(C)	Erythromycin;Spiramycin;Telithromycin	bin
+resfinder	G	G11	7	3	G11_7_bin_003	mecA	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam	bin
+resfinder	G	G12	7	contig	G12_7_contig	mph(C)		contig
+resfinder	G	G12	7	contig	G12_7_contig	msr(C)		contig
+resfinder	G	G12	7	contig	G12_7_contig	dfrG		contig
+resfinder	G	G12	7	contig	G12_7_contig	tet(L)		contig
+resfinder	G	G12	7	contig	G12_7_contig	fosD		contig
+resfinder	G	G12	7	contig	G12_7_contig	aac(6')-Ii		contig
+resfinder	G	G12	7	contig	G12_7_contig	erm(T)		contig
+resfinder	G	G12	3	1	G12_3_bin_001	aph(3')-III	Amikacin	bin
+resfinder	G	G12	3	1	G12_3_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G12	3	1	G12_3_bin_001	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G12	3	1	G12_3_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G12	3	1	G12_3_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G12	3	1	G12_3_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G12	3	2	G12_3_bin_002	none	1	none
+resfinder	G	G12	7	contig	G12-7_contig	tet(L)		contig
+resfinder	G	G12	7	contig	G12-7_contig	fosD		contig
+resfinder	G	G12	7	contig	G12-7_contig	aac(6')-Ii		contig
+resfinder	G	G12	7	contig	G12-7_contig	erm(T)		contig
+resfinder	G	G13	3	1	G13_3_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G13	3	1	G13_3_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G13	3	1	G13_3_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G13	3	1	G13_3_bin_001	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G13	3	1	G13_3_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G13	3	2	G13_3_bin_002	tet(41)	Doxycycline;Tetracycline	bin
+resfinder	G	G13	3	contig	G13_3_contig	aac(6')-Ic		contig
+resfinder	G	G13	3	contig	G13-3_contig	aac(6')-Ic		contig
+resfinder	G	G13	7	1	G13_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G13	7	1	G13_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G13	7	1	G13_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G13	7	1	G13_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G13	7	2	G13_7_bin_002	aph(3')-III	Amikacin	bin
+resfinder	G	G13	7	2	G13_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G14	3	1	G14_3_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G14	3	1	G14_3_bin_001	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G14	3	1	G14_3_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G14	3	1	G14_3_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G14	3	1	G14_3_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G14	3	2	G14_3_bin_002	none	1	none
+resfinder	G	G14	7	1	G14_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G14	7	1	G14_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G14	7	1	G14_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G14	7	1	G14_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G14	7	2	G14_7_bin_002	fosA	Fosfomycin	bin
+resfinder	G	G14	7	2	G14_7_bin_002	aph(3')-III	Amikacin	bin
+resfinder	G	G14	7	2	G14_7_bin_002	oqxA	Nalidixic_acid;Ciprofloxacin	bin
+resfinder	G	G14	7	2	G14_7_bin_002	oqxB	Nalidixic_acid;Ciprofloxacin	bin
+resfinder	G	G14	7	2	G14_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G14	7	2	G14_7_bin_002	blaOXY-2-8		bin
+resfinder	G	G14	7	3	G14_7_bin_003	none	1	none
+resfinder	G	G14	7	4	G14_7_bin_004	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G14	7	4	G14_7_bin_004	mph(C)	Erythromycin;Spiramycin;Telithromycin	bin
+resfinder	G	G15	7	1	G15_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G15	7	2	G15_7_bin_002	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G15	7	2	G15_7_bin_002	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G15	7	2	G15_7_bin_002	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G15	7	3	G15_7_bin_003	aadD	Amikacin;Tobramycin	bin
+resfinder	G	G15	7	3	G15_7_bin_003	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G15	7	4	G15_7_bin_004	mph(C)	Erythromycin;Spiramycin;Telithromycin	bin
+resfinder	G	G15	7	4	G15_7_bin_004	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	G	G15	7	4	G15_7_bin_004	aph(3')-III	Amikacin	bin
+resfinder	G	G15	7	4	G15_7_bin_004	msr(A)	Erythromycin;Azithromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G15	7	5	G15_7_bin_005	none	1	none
+resfinder	G	G15	7	contig	G15_7_contig	erm(T)		contig
+resfinder	G	G15	7	contig	G15_7_contig	fosB		contig
+resfinder	G	G15	7	contig	G15_7_contig	fosD		contig
+resfinder	G	G15	7	contig	G15-7_contig	erm(T)		contig
+resfinder	G	G15	7	contig	G15-7_contig	fosB		contig
+resfinder	G	G15	7	contig	G15-7_contig	fosD		contig
+resfinder	G	G17	3	1	G17_3_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G17	3	1	G17_3_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G17	3	1	G17_3_bin_001	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G17	3	1	G17_3_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G17	3	1	G17_3_bin_001	dfrG	Trimethoprim	bin
+resfinder	G	G17	3	2	G17_3_bin_002	none	1	none
+resfinder	G	G17	7	1	G17_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	G	G17	7	1	G17_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G17	7	1	G17_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	G	G17	7	2	G17_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	G	G17	7	2	G17_7_bin_002	dfrG	Trimethoprim	bin
+resfinder	G	G17	7	2	G17_7_bin_002	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	G	G17	7	2	G17_7_bin_002	mecA	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam	bin
+resfinder	G	G17	7	2	G17_7_bin_002	aph(3')-III	Amikacin	bin
+resfinder	G	G17	7	2	G17_7_bin_002	mph(C)	Erythromycin;Spiramycin;Telithromycin	bin
+resfinder	G	G17	7	2	G17_7_bin_002	msr(A)	Erythromycin;Azithromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	K	K08	7	1	K08_7_bin_001	none	1	none
+resfinder	K	K08	7	2	K08_7_bin_002	none	1	none
+resfinder	K	K11	7	1	K11_7_bin_001	none	1	none
+resfinder	K	K11	7	2	K11_7_bin_002	none	1	none
+resfinder	K	K11	7	3	K11_7_bin_003	none	1	none
+resfinder	K	K13	7	1	K13_7_bin_001	none	1	none
+resfinder	K	K13	7	2	K13_7_bin_002	none	1	none
+resfinder	K	K14	7	1	K14_7_bin_001	none	1	none
+resfinder	K	K14	7	2	K14_7_bin_002	none	1	none
+resfinder	K	K15	7	1	K15_7_bin_001	none	1	none
+resfinder	K	K15	7	2	K15_7_bin_002	blaOCH-2		bin
+resfinder	K	K16	3	1	K16_3_bin_001	tet(A)	Doxycycline;Tetracycline	bin
+resfinder	K	K16	3	1	K16_3_bin_001	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	bin
+resfinder	K	K16	3	1	K16_3_bin_001	dfrA17	Trimethoprim	bin
+resfinder	K	K16	3	1	K16_3_bin_001	aadA5	Streptomycin	bin
+resfinder	K	K16	3	1	K16_3_bin_001	sul1	Sulfamethoxazole	bin
+resfinder	K	K16	3	1	K16_3_bin_001	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	bin
+resfinder	K	K16	3	1	K16_3_bin_001	aac(6')-Ib-cr	Ciprofloxacin	bin
+resfinder	K	K16	3	1	K16_3_bin_001	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	bin
+resfinder	K	K16	3	2	K16_3_bin_002	mdf(A)		bin
+resfinder	K	K16	7	1	K16_7_bin_001	blaCTX-M-15	Amoxicillin;Ampicillin;Aztreonam;Cefepime;Cefotaxime;Ceftazidime;Ceftriaxone;Piperacillin;Ticarcillin	bin
+resfinder	K	K16	7	1	K16_7_bin_001	mdf(A)		bin
+resfinder	K	K16	7	1	K16_7_bin_001	aac(6')-Ib-cr	Ciprofloxacin	bin
+resfinder	K	K16	7	1	K16_7_bin_001	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	bin
+resfinder	K	K16	7	2	K16_7_bin_002	tet(A)	Doxycycline;Tetracycline	bin
+resfinder	K	K16	7	2	K16_7_bin_002	dfrA17	Trimethoprim	bin
+resfinder	K	K16	7	2	K16_7_bin_002	aadA5	Streptomycin	bin
+resfinder	K	K16	7	2	K16_7_bin_002	sul1	Sulfamethoxazole	bin
+resfinder	K	K16	7	2	K16_7_bin_002	mph(A)	Erythromycin;Azithromycin;Spiramycin;Telithromycin	bin
+resfinder	K	K17	7	1	K17_7_bin_001	none	1	none
+resfinder	K	K17	7	2	K17_7_bin_002	none	1	none
+resfinder	K	K18	1	1	K18_1_bin_001	tet(41)	Doxycycline;Tetracycline	bin
+resfinder	K	K18	1	2	K18_1_bin_002	oqxB	Nalidixic_acid;Ciprofloxacin	bin
+resfinder	K	K18	1	2	K18_1_bin_002	blaSRT-2		bin
+resfinder	K	K18	7	1	K18_7_bin_001	aph(3')-III	Amikacin	bin
+resfinder	K	K18	7	1	K18_7_bin_001	lsa(A)	Lincomycin;Clindamycin;Dalfopristin;Pristinamycin_IIA;Virginiamycin_M	bin
+resfinder	K	K18	7	1	K18_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	K	K18	7	1	K18_7_bin_001	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	K	K18	7	1	K18_7_bin_001	tet(M)	Doxycycline;Tetracycline;Minocycline	bin
+resfinder	K	K18	7	2	K18_7_bin_002	none	1	none
+resfinder	K	K18	7	3	K18_7_bin_003	none	1	none
+resfinder	K	K18	7	4	K18_7_bin_004	aadD	Amikacin;Tobramycin	bin
+resfinder	K	K18	7	4	K18_7_bin_004	lsa(E)	Lincomycin;Clindamycin;Dalfopristin;Pristinamycin_IIA;Virginiamycin_M;Tiamulin	bin
+resfinder	K	K18	7	4	K18_7_bin_004	lnu(B)	Lincomycin;Clindamycin	bin
+resfinder	K	K18	7	4	K18_7_bin_004	str	Streptomycin	bin
+resfinder	K	K18	7	4	K18_7_bin_004	erm(B)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	K	K18	7	5	K18_7_bin_005	none	1	none
+resfinder	K	K18	7	6	K18_7_bin_006	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	K	K18	7	7	K18_7_bin_007	blaZ	Amoxicillin;Ampicillin;Penicillin;Piperacillin	bin
+resfinder	K	K18	7	7	K18_7_bin_007	mph(C)	Erythromycin;Spiramycin;Telithromycin	bin
+resfinder	K	K18	7	8	K18_7_bin_008	none	1	none
+resfinder	L	L02	3	1	L02_3_bin_001	none	1	none
+resfinder	L	L02	3	2	L02_3_bin_002	blaSRT-2		bin
+resfinder	L	L02	3	2	L02_3_bin_002	aac(6')-Ic	Amikacin;Tobramycin	bin
+resfinder	L	L02	7	1	L02_7_bin_001	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L02	7	1	L02_7_bin_001	fosB	Fosfomycin	bin
+resfinder	L	L02	7	1	L02_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L02	7	1	L02_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L02	7	1	L02_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L02	7	1	L02_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L02	7	contig	L02_7_contig	erm(T)		contig
+resfinder	L	L02	7	contig	L02_7_contig	cmx		contig
+resfinder	L	L02	7	contig	L02_7_contig	erm(X)		contig
+resfinder	L	L02	7	contig	L02_7_contig	aac(3)-XI		contig
+resfinder	L	L02	7	contig	L02_7_contig	aph(3')-Ia		contig
+resfinder	L	L02	7	contig	L02_7_contig	fosB		contig
+resfinder	L	L02	7	contig	L02-7_contig	erm(T)		contig
+resfinder	L	L02	7	contig	L02-7_contig	cmx		contig
+resfinder	L	L02	7	contig	L02-7_contig	erm(X)		contig
+resfinder	L	L02	7	contig	L02-7_contig	aac(3)-XI		contig
+resfinder	L	L02	7	contig	L02-7_contig	aph(3')-Ia		contig
+resfinder	L	L02	7	contig	L02-7_contig	fosB		contig
+resfinder	L	L05	3	1	L05_3_bin_001	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L05	3	1	L05_3_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L05	3	1	L05_3_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L05	3	1	L05_3_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L05	3	1	L05_3_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L05	3	2	L05_3_bin_002	none	1	none
+resfinder	L	L05	7	1	L05_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L05	7	1	L05_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L05	7	1	L05_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L05	7	2	L05_7_bin_002	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L05	7	2	L05_7_bin_002	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L05	7	2	L05_7_bin_002	fosB	Fosfomycin	bin
+resfinder	L	L05	7	2	L05_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L05	7	3	L05_7_bin_003	none	1	none
+resfinder	L	L07	7	1	L07_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L07	7	2	L07_7_bin_002	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L07	7	2	L07_7_bin_002	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L07	7	2	L07_7_bin_002	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L07	7	2	L07_7_bin_002	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L07	7	2	L07_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L08	7	1	L08_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L08	7	1	L08_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L08	7	1	L08_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L08	7	1	L08_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L08	7	2	L08_7_bin_002	none	1	none
+resfinder	L	L08	7	contig	L08_7_contig	erm(X)		contig
+resfinder	L	L08	7	contig	L08_7_contig	erm(T)		contig
+resfinder	L	L08	7	contig	L08_7_contig	aadD		contig
+resfinder	L	L08	7	contig	L08_7_contig	aac(3)-XI		contig
+resfinder	L	L08	7	contig	L08-7_contig	erm(X)		contig
+resfinder	L	L08	7	contig	L08-7_contig	erm(T)		contig
+resfinder	L	L08	7	contig	L08-7_contig	aadD		contig
+resfinder	L	L08	7	contig	L08-7_contig	aac(3)-XI		contig
+resfinder	L	L09	7	contig	L09-7_contig	tet(L)		contig
+resfinder	L	L09	7	1	L09_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L09	7	1	L09_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L09	7	1	L09_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L09	7	contig	L09_7_contig	tet(L)		contig
+resfinder	L	L09	7	contig	L09_7_contig	mph(C)		contig
+resfinder	L	L09	7	contig	L09_7_contig	aadD		contig
+resfinder	L	L09	7	contig	L09_7_contig	erm(T)		contig
+resfinder	L	L09	7	contig	L09-7_contig	mph(C)		contig
+resfinder	L	L09	7	contig	L09-7_contig	aadD		contig
+resfinder	L	L09	7	contig	L09-7_contig	erm(T)		contig
+resfinder	L	L10	7	1	L10_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L10	7	1	L10_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L10	7	1	L10_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L10	7	2	L10_7_bin_002	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L10	7	2	L10_7_bin_002	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L10	7	2	L10_7_bin_002	fosB	Fosfomycin	bin
+resfinder	L	L10	7	2	L10_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L11	7	1	L11_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L11	7	1	L11_7_bin_001	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L11	7	1	L11_7_bin_001	dfrG	Trimethoprim	bin
+resfinder	L	L11	7	2	L11_7_bin_002	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L11	7	2	L11_7_bin_002	fosB	Fosfomycin	bin
+resfinder	L	L11	7	2	L11_7_bin_002	fosB	Fosfomycin	bin
+resfinder	L	L11	7	2	L11_7_bin_002	erm(T)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L11	7	2	L11_7_bin_002	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L11	7	3	L11_7_bin_003	erm(X)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L11	7	3	L11_7_bin_003	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	L	L11	7	3	L11_7_bin_003	blaZ	Amoxicillin;Ampicillin;Penicillin;Piperacillin	bin
+resfinder	L	L11	7	3	L11_7_bin_003	aac(3)-XI		bin
+resfinder	L	L11	7	3	L11_7_bin_003	mecA	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Cefixime;Cefotaxime;Cefoxitin;Ceftazidime;Ertapenem;Imipenem;Meropenem;Piperacillin;Piperacillin+Tazobactam	bin
+resfinder	L	L18	1	1	L18_1_bin_001	aac(6')-Ic	Amikacin;Tobramycin	bin
+resfinder	L	L18	1	1	L18_1_bin_001	oqxB	Nalidixic_acid;Ciprofloxacin	bin
+resfinder	L	L18	1	1	L18_1_bin_001	tet(41)	Doxycycline;Tetracycline	bin
+resfinder	L	L18	1	1	L18_1_bin_001	blaSRT-2		bin
+resfinder	L	L18	1	1	L18_1_bin_001	ant(3'')-Ia	Streptomycin	bin
+resfinder	L	L18	1	1	L18_1_bin_001	sul1	Sulfamethoxazole	bin
+resfinder	L	L18	1	1	L18_1_bin_001	tet(A)	Doxycycline;Tetracycline	bin
+resfinder	L	L18	1	2	L18_1_bin_002	sul2	Sulfamethoxazole	bin
+resfinder	L	L18	1	2	L18_1_bin_002	dfrA14	Trimethoprim	bin
+resfinder	L	L18	1	2	L18_1_bin_002	aph(6)-Id	Streptomycin	bin
+resfinder	L	L18	1	2	L18_1_bin_002	mdf(A)		bin
+resfinder	L	L18	1	2	L18_1_bin_002	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	bin
+resfinder	L	L18	1	3	L18_1_bin_003	none	1	none
+resfinder	L	L18	1	4	L18_1_bin_004	none	1	none
+resfinder	L	L18	3	1	L18_3_bin_001	mdf(A)		bin
+resfinder	L	L18	3	1	L18_3_bin_001	blaTEM-1B	Amoxicillin;Ampicillin;Cephalothin;Piperacillin;Ticarcillin	bin
+resfinder	L	L18	3	1	L18_3_bin_001	sul1	Sulfamethoxazole	bin
+resfinder	L	L18	3	1	L18_3_bin_001	ant(3'')-Ia	Streptomycin	bin
+resfinder	L	L18	3	1	L18_3_bin_001	blaOXA-1	Amoxicillin;Amoxicillin+Clavulanic_acid;Ampicillin;Ampicillin+Clavulanic_acid;Cefepime;Piperacillin;Piperacillin+Tazobactam	bin
+resfinder	L	L18	3	1	L18_3_bin_001	catA1	Chloramphenicol	bin
+resfinder	L	L18	3	1	L18_3_bin_001	tet(A)	Doxycycline;Tetracycline	bin
+resfinder	L	L18	3	1	L18_3_bin_001	aph(6)-Id	Streptomycin	bin
+resfinder	L	L18	3	1	L18_3_bin_001	dfrA14	Trimethoprim	bin
+resfinder	L	L18	3	1	L18_3_bin_001	sul2	Sulfamethoxazole	bin
+resfinder	L	L18	3	1	L18_3_bin_001	tet(B)	Doxycycline;Tetracycline;Minocycline	bin
+resfinder	L	L18	3	2	L18_3_bin_002	msr(C)	Erythromycin;Telithromycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L18	3	2	L18_3_bin_002	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L18	3	2	L18_3_bin_002	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	L	L18	3	2	L18_3_bin_002	erm(B)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L18	3	2	L18_3_bin_002	aph(3')-III	Amikacin	bin
+resfinder	L	L18	3	2	L18_3_bin_002	lsa(E)	Lincomycin;Clindamycin;Dalfopristin;Pristinamycin_IIA;Virginiamycin_M;Tiamulin	bin
+resfinder	L	L18	3	2	L18_3_bin_002	lnu(B)	Lincomycin;Clindamycin	bin
+resfinder	L	L18	3	2	L18_3_bin_002	ant(6)-Ia	Streptomycin	bin
+resfinder	L	L18	7	1	L18_7_bin_001	erm(B)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L18	7	1	L18_7_bin_001	aac(6')-Ii	Amikacin;Tobramycin	bin
+resfinder	L	L18	7	1	L18_7_bin_001	tet(L)	Doxycycline;Tetracycline	bin
+resfinder	L	L18	7	1	L18_7_bin_001	aph(3')-III	Amikacin	bin
+resfinder	L	L18	7	1	L18_7_bin_001	erm(C)	Erythromycin;Lincomycin;Clindamycin;Quinupristin;Pristinamycin_IA;Virginiamycin_S	bin
+resfinder	L	L18	7	1	L18_7_bin_001	aac(6')-aph(2'')	Amikacin;Gentamicin;Tobramycin	bin
+resfinder	L	L18	7	1	L18_7_bin_001	lsa(E)	Lincomycin;Clindamycin;Dalfopristin;Pristinamycin_IIA;Virginiamycin_M;Tiamulin	bin
+resfinder	L	L18	7	1	L18_7_bin_001	lnu(B)	Lincomycin;Clindamycin	bin
+resfinder	L	L18	7	1	L18_7_bin_001	ant(6)-Ia	Streptomycin	bin
+resfinder	L	L18	7	contig	L18_7_contig	fosB		contig
+resfinder	L	L18	7	contig	L18-7_contig	fosB		contig
