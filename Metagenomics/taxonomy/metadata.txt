@@ -1,0 +1,24 @@
+sample_id	label	individual	include	sex	Group	person	sample taken day	sample no
+1	K08-7	K08	1	m	Klagenfurt	K08	15	7
+2	K11-7	K11	1	f	Klagenfurt	K11	17	7
+3	K13-7	K13	1	m	Klagenfurt	K13	13	7
+4	K15-7	K15	1	m	Klagenfurt	K15	13	7
+5	K16-7	K16	1	m	Klagenfurt	K16	14	7
+6	K17-7	K17	1	m	Klagenfurt	K17	15	7
+7	K18-7	K18	1	f	Klagenfurt	K18	18	7
+8	G03-7	G03	1	m	Graz	G03	13	7
+9	G05-7	G05	1	f	Graz	G05	14	7
+10	G11-7	G11	1	f	Graz	G11	14	7
+11	G12-7	G12	1	m	Graz	G12	15	7
+12	G13-7	G13	1	f	Graz	G13	13	7
+13	G14-7	G14	1	f	Graz	G14	14	7
+14	G15-7	G15	1	f	Graz	G15	14	7
+15	G17-7	G17	1	m	Graz	G17	14	7
+16	L02-7	L02	1	m	Leoben	L02	14	7
+17	L05-7	L05	1	f	Leoben	L05	15	7
+18	L07-7	L07	1	m	Leoben	L07	16	7
+19	L08-7	L08	1	m	Leoben	L08	13	7
+20	L09-7	L09	1	m	Leoben	L09	15	7
+21	L10-7	L10	1	f	Leoben	L10	13	7
+22	L11-7	L11	1	f	Leoben	L11	14	7
+23	L18-7	L18	1	m	Leoben	L18	15	7
