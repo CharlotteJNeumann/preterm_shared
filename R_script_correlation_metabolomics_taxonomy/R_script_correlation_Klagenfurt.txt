@@ -2,9 +2,6 @@
 #install.packages("tidyverse")
 library("tidyverse")
 
-# Set the working directory containing the files to import the data from and save plots into.
-setwd("C:/Users/dalby/OneDrive/Documents/Hall Lab/Charlotte Neumann/Genus metaboolite correlations")
-
 ## Metabolomic data.
 # Import the data
 metbabolomic_data <- read_csv("preterm_metabolom_4correlation.csv")
@@ -32,8 +29,6 @@ colnames(metbabolomic_data) <- gsub(x = colnames(metbabolomic_data), pattern = "
 colnames(metbabolomic_data) <- gsub(x = colnames(metbabolomic_data), pattern = ",", replacement = "_")
 # Replace " " with "_" in the column headings.
 colnames(metbabolomic_data) <- gsub(x = colnames(metbabolomic_data), pattern = " ", replacement = "_")
-
-
 
 
 # Select the metbabolomic data to analyse.
