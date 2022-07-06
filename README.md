@@ -10,3 +10,4 @@ The following data for the publication are made public:
 - metagenomic data -> abricate output -> for Ecoli_vf, HMOs, resfinder, vfdb
 - metagenomic data -> taxonomy output: taxonomy data table, metadatafile and taxonomy
 - metagenomic data -> function output -> function data table, metadatafile and taxonomy
+- metabolomics data -> data table of NMR measured metabolite, data table of NMR measured HMOs, and metadatafile
