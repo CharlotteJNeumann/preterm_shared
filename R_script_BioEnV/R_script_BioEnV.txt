@@ -1,7 +1,6 @@
-# 3 input files needed
+# 2 input files needed
 # 1) bray-curtis distance matrix as .txt
 # 2) metadata file as .txt with only numerical data!!!!
-# 3) data file
 
 require(vegan)
 
