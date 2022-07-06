@@ -1,6 +1,10 @@
 # preterm_shared
 
 The following data for the publication are made public:
+1) R scripts
 - R scripts for correlation analysis of metabolomic data with taxonomic information and its vizualization in a heatmap
 - R script for BioEnV
-- output files
+2) Data tables
+- 16S rRNA amplicon sequencing of Caporaso-approach -> output from biom: ASV table with metadatafile and taxonomy
+- 16S rRNA amplicon sequencing of Archaea-approach -> output from biom: ASV table with metadatafile and taxonomy
+- metagenomic data -> output: taxonomy data table, metadatafile and taxonomy
