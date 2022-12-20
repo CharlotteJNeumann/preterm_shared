@@ -1,0 +1,44 @@
+Graz_Klagenfurt						
+genus	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj
+unclassified (derived from Podoviridae)	83.568	6.882	1.429	4.815	0	0
+L5-like viruses	54.773	9.229	1.173	7.869	0	0
+unclassified (derived from Myoviridae)	20.443	-4.787	1.237	-3.869	0	0
+unclassified (derived from Caudovirales)	6.391	4.997	1.48	3.376	0.001	0.002
+AHJD-like viruses	15.006	-3.733	1.446	-2.583	0.01	0.024
+SPO1-like viruses	216.085	-3.612	1.462	-2.47	0.014	0.027
+unclassified (derived from Viruses)	5.11	-2.887	1.362	-2.12	0.034	0.058
+unclassified (derived from Siphoviridae)	2150.299	0.752	0.755	0.996	0.319	0.479
+T4-like viruses	2.231	-1.543	2.101	-0.734	0.463	0.555
+Epsilon15-like viruses	0.367	-2.293	3.044	-0.753	0.451	0.555
+Lambda-like viruses	0.244	-1.9	3.05	-0.623	0.533	0.582
+P22-like viruses	0	0	0	0	1	1
+						
+Graz_Leoben						
+genus	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj
+T4-like viruses	14.474	3.538	1.332	2.657	0.008	0.087
+AHJD-like viruses	21.816	-1.773	1.436	-1.235	0.217	0.795
+SPO1-like viruses	265.948	0.76	0.549	1.385	0.166	0.795
+unclassified (derived from Siphoviridae)	1055.278	0.27	0.32	0.841	0.4	0.881
+unclassified (derived from Viruses)	6.81	0.632	0.67	0.944	0.345	0.881
+unclassified (derived from Myoviridae)	33.621	-0.403	0.64	-0.631	0.528	0.968
+unclassified (derived from Podoviridae)	0	0	0	0	1	1
+P22-like viruses	0	0	0	0	1	1
+unclassified (derived from Caudovirales)	0.24	0.346	3.028	0.114	0.909	1
+Epsilon15-like viruses	0.161	-0.827	3.028	-0.273	0.785	1
+Lambda-like viruses	0.107	-0.509	3.031	-0.168	0.867	1
+L5-like viruses	0	NA	NA	NA	NA	NA
+						
+Klagenfurt_Leoben						
+genus	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj
+unclassified (derived from Podoviridae)	68.671	-9.331	1.1	-8.481	0	0
+L5-like viruses	45.169	-8.732	1.079	-8.09	0	0
+unclassified (derived from Myoviridae)	17.165	4.631	1.277	3.626	0	0.001
+T4-like viruses	13.846	4.826	1.578	3.059	0.002	0.006
+SPO1-like viruses	179.728	3.726	1.325	2.812	0.005	0.011
+unclassified (derived from Siphoviridae)	1631.391	-1.03	0.521	-1.977	0.048	0.076
+unclassified (derived from Viruses)	4.432	3.253	1.607	2.024	0.043	0.076
+AHJD-like viruses	3.22	1.845	1.798	1.026	0.305	0.408
+unclassified (derived from Caudovirales)	6.527	-1.452	1.502	-0.966	0.334	0.408
+P22-like viruses	0	0	0	0	1	1
+Epsilon15-like viruses	0	0	0	0	1	1
+Lambda-like viruses	0	NA	NA	NA	NA	NA
