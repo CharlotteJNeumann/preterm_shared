@@ -1,0 +1,1121 @@
+Klagenfurt_Graz						
+genus	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj
+Enterococcus	16684.317	-5.733	1.255	-4.567	0	0
+Bifidobacterium	23933.934	16.712	1.034	16.164	0	0
+Geobacillus	1118.115	13.542	1.225	11.055	0	0
+Streptococcus	122.105	5.223	1.658	3.149	0.002	0.018
+Lactobacillus	1363.786	2.051	0.711	2.885	0.004	0.034
+Lactococcus	8.307	6.46	2.364	2.733	0.006	0.046
+Veillonella	41.003	-7.072	2.663	-2.655	0.008	0.05
+Staphylococcus	2350.875	-1.387	0.884	-1.568	0.117	0.642
+Haemophilus	2.019	-4.39	2.93	-1.498	0.134	0.656
+Enterobacter	1.209	-3.65	2.935	-1.244	0.214	0.916
+unknown_Lactobacillales	1.109	-3.323	2.887	-1.151	0.25	0.916
+Pseudomonas	0.805	3.103	2.609	1.19	0.234	0.916
+Klebsiella	0	0	0	0	1	1
+Clostridium sensu stricto 1	0	0	0	0	1	1
+Escherichia-Shigella	2.564	2.567	2.917	0.88	0.379	1
+unknown_Enterobacteriaceae	0.191	0.607	2.96	0.205	0.837	1
+Ochrobactrum	0	0	0	0	1	1
+Rothia	0.129	0.607	2.96	0.205	0.837	1
+Corynebacterium 1	1.212	1.646	2.379	0.692	0.489	1
+unknown_Bacteria	2.626	1.539	2.344	0.657	0.511	1
+Finegoldia	0.419	0.995	2.95	0.337	0.736	1
+Acinetobacter	0.439	-2.305	2.946	-0.782	0.434	1
+Gemella	0	0	0	0	1	1
+Elizabethkingia	0.485	2.371	2.86	0.829	0.407	1
+Ureaplasma	0.105	-1.028	2.957	-0.348	0.728	1
+unknown_Burkholderiaceae	0.453	-2.348	2.871	-0.818	0.413	1
+Ralstonia	0.464	1.15	2.892	0.398	0.691	1
+Craurococcus	0.117	1.097	2.958	0.371	0.711	1
+Prevotella	0.344	1.964	2.952	0.665	0.506	1
+Blautia	0.29	1.029	2.958	0.348	0.728	1
+Micrococcus	0.196	-1.045	2.956	-0.354	0.724	1
+Saccharopolyspora	0.195	0.811	2.959	0.274	0.784	1
+Serratia	0.195	0.811	2.959	0.274	0.784	1
+Stenotrophomonas	0.042	-0.518	2.96	-0.175	0.861	1
+unknown_Diplorickettsiaceae	0.195	0.811	2.959	0.274	0.784	1
+unknown_Mitochondria	0.153	0.811	2.959	0.274	0.784	1
+Achromobacter	0.094	-0.567	2.959	-0.192	0.848	1
+Pandoraea	0.115	0.607	2.96	0.205	0.837	1
+Paracoccus	0.115	0.607	2.96	0.205	0.837	1
+Vibrio	0.039	0.521	2.96	0.176	0.86	1
+Empedobacter	0.03	-0.358	2.96	-0.121	0.904	1
+unknown_Actinobacteria	0.097	0.403	2.961	0.136	0.892	1
+unknown_Betaproteobacteriales	0.097	0.403	2.961	0.136	0.892	1
+unknown_Pasteurellaceae	0.011	-0.147	2.961	-0.05	0.96	1
+Eikenella	0	NA	NA	NA	NA	NA
+Aeromonas	0	NA	NA	NA	NA	NA
+Bacillus	0	NA	NA	NA	NA	NA
+unknown_Sericytochromatia	0	NA	NA	NA	NA	NA
+[Eubacterium] brachy group	0	NA	NA	NA	NA	NA
+[Eubacterium] coprostanoligenes group	0	NA	NA	NA	NA	NA
+[Eubacterium] eligens group	0	NA	NA	NA	NA	NA
+[Eubacterium] hallii group	0	NA	NA	NA	NA	NA
+[Eubacterium] ruminantium group	0	NA	NA	NA	NA	NA
+[Eubacterium] xylanophilum group	0	NA	NA	NA	NA	NA
+[Ruminococcus] gauvreauii group	0	NA	NA	NA	NA	NA
+AAP99	0	NA	NA	NA	NA	NA
+Abiotrophia	0	NA	NA	NA	NA	NA
+Actinomyces	0	NA	NA	NA	NA	NA
+Actinotignum	0	NA	NA	NA	NA	NA
+Adhaeribacter	0	NA	NA	NA	NA	NA
+Afipia	0	NA	NA	NA	NA	NA
+Agathobacter	0	NA	NA	NA	NA	NA
+Agromyces	0	NA	NA	NA	NA	NA
+Akkermansia	0	NA	NA	NA	NA	NA
+Alcaligenes	0	NA	NA	NA	NA	NA
+Aliidiomarina	0	NA	NA	NA	NA	NA
+Alistipes	0	NA	NA	NA	NA	NA
+Aliterella CENA595	0	NA	NA	NA	NA	NA
+Allisonella	0	NA	NA	NA	NA	NA
+Alloprevotella	0	NA	NA	NA	NA	NA
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0	NA	NA	NA	NA	NA
+alphaI cluster	0	NA	NA	NA	NA	NA
+Altererythrobacter	0	NA	NA	NA	NA	NA
+Aminobacter	0	NA	NA	NA	NA	NA
+Anaerococcus	0	NA	NA	NA	NA	NA
+Anaerostipes	0	NA	NA	NA	NA	NA
+Anoxybacillus	0	NA	NA	NA	NA	NA
+Aquabacterium	0	NA	NA	NA	NA	NA
+Aquipuribacter	0	NA	NA	NA	NA	NA
+Atopobium	0	NA	NA	NA	NA	NA
+Atopostipes	0	NA	NA	NA	NA	NA
+Bacteriovorax	0	NA	NA	NA	NA	NA
+Bacteroides	0	NA	NA	NA	NA	NA
+Bergeyella	0	NA	NA	NA	NA	NA
+Bilophila	0	NA	NA	NA	NA	NA
+Blastococcus	0	NA	NA	NA	NA	NA
+Bordetella	0	NA	NA	NA	NA	NA
+Bosea	0	NA	NA	NA	NA	NA
+Brachybacterium	0	NA	NA	NA	NA	NA
+Bradyrhizobium	0	NA	NA	NA	NA	NA
+Brevibacterium	0	NA	NA	NA	NA	NA
+Brevundimonas	0	NA	NA	NA	NA	NA
+Bryobacter	0	NA	NA	NA	NA	NA
+Burkholderia-Caballeronia-Paraburkholderia	0	NA	NA	NA	NA	NA
+Butyricicoccus	0	NA	NA	NA	NA	NA
+Butyrivibrio	0	NA	NA	NA	NA	NA
+CAG-56	0	NA	NA	NA	NA	NA
+Candidatus Captivus	0	NA	NA	NA	NA	NA
+Candidatus Nitrotoga	0	NA	NA	NA	NA	NA
+Candidatus Paracaedibacter	0	NA	NA	NA	NA	NA
+Candidatus Soleaferrea	0	NA	NA	NA	NA	NA
+Capnocytophaga	0	NA	NA	NA	NA	NA
+Caulobacter	0	NA	NA	NA	NA	NA
+Cellulomonas	0	NA	NA	NA	NA	NA
+Christensenellaceae R-7 group	0	NA	NA	NA	NA	NA
+Chryseobacterium	0	NA	NA	NA	NA	NA
+Cloacibacterium	0	NA	NA	NA	NA	NA
+Collinsella	0	NA	NA	NA	NA	NA
+Coprococcus 1	0	NA	NA	NA	NA	NA
+Coprococcus 2	0	NA	NA	NA	NA	NA
+Coprococcus 3	0	NA	NA	NA	NA	NA
+Corynebacterium	0	NA	NA	NA	NA	NA
+Crocinitomix	0	NA	NA	NA	NA	NA
+Cupriavidus	0	NA	NA	NA	NA	NA
+Curvibacter	0	NA	NA	NA	NA	NA
+Cutibacterium	0	NA	NA	NA	NA	NA
+Defluviitaleaceae UCG-011	0	NA	NA	NA	NA	NA
+Deinococcus	0	NA	NA	NA	NA	NA
+Delftia	0	NA	NA	NA	NA	NA
+Desulfocapsa	0	NA	NA	NA	NA	NA
+Dialister	0	NA	NA	NA	NA	NA
+Dielma	0	NA	NA	NA	NA	NA
+Dorea	0	NA	NA	NA	NA	NA
+Dyella	0	NA	NA	NA	NA	NA
+Dysgonomonas	0	NA	NA	NA	NA	NA
+Effusibacillus	0	NA	NA	NA	NA	NA
+Enhydrobacter	0	NA	NA	NA	NA	NA
+Enterorhabdus	0	NA	NA	NA	NA	NA
+Erysipelotrichaceae UCG-003	0	NA	NA	NA	NA	NA
+Erythrobacter	0	NA	NA	NA	NA	NA
+Exiguobacterium	0	NA	NA	NA	NA	NA
+Ezakiella	0	NA	NA	NA	NA	NA
+Facklamia	0	NA	NA	NA	NA	NA
+Faecalibacterium	0	NA	NA	NA	NA	NA
+Family XIII AD3011 group	0	NA	NA	NA	NA	NA
+Ferruginibacter	0	NA	NA	NA	NA	NA
+Firmicutes bacterium CAG:345	0	NA	NA	NA	NA	NA
+Flavobacterium	0	NA	NA	NA	NA	NA
+Fournierella	0	NA	NA	NA	NA	NA
+Friedmanniella	0	NA	NA	NA	NA	NA
+Fusicatenibacter	0	NA	NA	NA	NA	NA
+Fusobacterium	0	NA	NA	NA	NA	NA
+Gallionella	0	NA	NA	NA	NA	NA
+Gardnerella	0	NA	NA	NA	NA	NA
+Garicola	0	NA	NA	NA	NA	NA
+GCA-900066225	0	NA	NA	NA	NA	NA
+Gemmata	0	NA	NA	NA	NA	NA
+Gemmatirosa	0	NA	NA	NA	NA	NA
+Geodermatophilus	0	NA	NA	NA	NA	NA
+Gordonia	0	NA	NA	NA	NA	NA
+Granulicatella	0	NA	NA	NA	NA	NA
+Halomonas	0	NA	NA	NA	NA	NA
+Herbaspirillum	0	NA	NA	NA	NA	NA
+Herbinix	0	NA	NA	NA	NA	NA
+Herminiimonas	0	NA	NA	NA	NA	NA
+Holdemanella	0	NA	NA	NA	NA	NA
+Hydrogenoanaerobacterium	0	NA	NA	NA	NA	NA
+Hymenobacter	0	NA	NA	NA	NA	NA
+Intestinibacter	0	NA	NA	NA	NA	NA
+Janthinobacterium	0	NA	NA	NA	NA	NA
+Jatrophihabitans	0	NA	NA	NA	NA	NA
+JGI 0001001-H03	0	NA	NA	NA	NA	NA
+Jonquetella	0	NA	NA	NA	NA	NA
+Kocuria	0	NA	NA	NA	NA	NA
+Lachnoanaerobaculum	0	NA	NA	NA	NA	NA
+Lachnoclostridium	0	NA	NA	NA	NA	NA
+Lachnospira	0	NA	NA	NA	NA	NA
+Lachnospiraceae FCS020 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae ND3007 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae NK4A136 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae UCG-001	0	NA	NA	NA	NA	NA
+Lautropia	0	NA	NA	NA	NA	NA
+Legionella	0	NA	NA	NA	NA	NA
+Leptospira	0	NA	NA	NA	NA	NA
+Leucobacter	0	NA	NA	NA	NA	NA
+Luteibacter	0	NA	NA	NA	NA	NA
+Lysinibacillus	0	NA	NA	NA	NA	NA
+Macellibacteroides	0	NA	NA	NA	NA	NA
+Marinomonas	0	NA	NA	NA	NA	NA
+Marmoricola	0	NA	NA	NA	NA	NA
+Massilia	0	NA	NA	NA	NA	NA
+Mesorhizobium	0	NA	NA	NA	NA	NA
+Methylobacterium	0	NA	NA	NA	NA	NA
+Microbacterium	0	NA	NA	NA	NA	NA
+Microlunatus	0	NA	NA	NA	NA	NA
+Microvirga	0	NA	NA	NA	NA	NA
+MND1	0	NA	NA	NA	NA	NA
+Mobiluncus	0	NA	NA	NA	NA	NA
+Modestobacter	0	NA	NA	NA	NA	NA
+Moraxella	0	NA	NA	NA	NA	NA
+Mycobacterium	0	NA	NA	NA	NA	NA
+Mycoplasma	0	NA	NA	NA	NA	NA
+Negativibacillus	0	NA	NA	NA	NA	NA
+Neisseria	0	NA	NA	NA	NA	NA
+Nitrospira	0	NA	NA	NA	NA	NA
+Nocardioides	0	NA	NA	NA	NA	NA
+Novosphingobium	0	NA	NA	NA	NA	NA
+Odoribacter	0	NA	NA	NA	NA	NA
+Olsenella	0	NA	NA	NA	NA	NA
+Paenibacillus	0	NA	NA	NA	NA	NA
+Pajaroellobacter	0	NA	NA	NA	NA	NA
+Panacagrimonas	0	NA	NA	NA	NA	NA
+Pantoea	0	NA	NA	NA	NA	NA
+Parabacteroides	0	NA	NA	NA	NA	NA
+Parasutterella	0	NA	NA	NA	NA	NA
+Pedobacter	0	NA	NA	NA	NA	NA
+Pedomicrobium	0	NA	NA	NA	NA	NA
+Pelomonas	0	NA	NA	NA	NA	NA
+Phaeodactylibacter	0	NA	NA	NA	NA	NA
+Phascolarctobacterium	0	NA	NA	NA	NA	NA
+Phenylobacterium	0	NA	NA	NA	NA	NA
+Phyllobacterium	0	NA	NA	NA	NA	NA
+Planktothrix NIVA-CYA 15	0	NA	NA	NA	NA	NA
+Porphyromonas	0	NA	NA	NA	NA	NA
+Prevotella 6	0	NA	NA	NA	NA	NA
+Prevotella 9	0	NA	NA	NA	NA	NA
+Prevotellaceae NK3B31 group	0	NA	NA	NA	NA	NA
+Prevotellaceae UCG-004	0	NA	NA	NA	NA	NA
+Pseudochrobactrum	0	NA	NA	NA	NA	NA
+Pseudolabrys	0	NA	NA	NA	NA	NA
+Pseudoxanthomonas	0	NA	NA	NA	NA	NA
+Psychroglaciecola	0	NA	NA	NA	NA	NA
+Quadrisphaera	0	NA	NA	NA	NA	NA
+RB41	0	NA	NA	NA	NA	NA
+Reyranella	0	NA	NA	NA	NA	NA
+Rhodanobacter	0	NA	NA	NA	NA	NA
+Rhodobacter	0	NA	NA	NA	NA	NA
+Rhodococcus	0	NA	NA	NA	NA	NA
+Romboutsia	0	NA	NA	NA	NA	NA
+Roseburia	0	NA	NA	NA	NA	NA
+Roseomonas	0	NA	NA	NA	NA	NA
+Rubellimicrobium	0	NA	NA	NA	NA	NA
+Rubrobacter	0	NA	NA	NA	NA	NA
+Ruminiclostridium 5	0	NA	NA	NA	NA	NA
+Ruminiclostridium 6	0	NA	NA	NA	NA	NA
+Ruminiclostridium 9	0	NA	NA	NA	NA	NA
+Ruminococcaceae NK4A214 group	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-002	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-003	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-004	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-005	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-010	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-013	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-014	0	NA	NA	NA	NA	NA
+Ruminococcus 1	0	NA	NA	NA	NA	NA
+Ruminococcus 2	0	NA	NA	NA	NA	NA
+S5-A14a	0	NA	NA	NA	NA	NA
+Salipaludibacillus	0	NA	NA	NA	NA	NA
+Schlesneria	0	NA	NA	NA	NA	NA
+Sediminibacterium	0	NA	NA	NA	NA	NA
+Selenomonas 3	0	NA	NA	NA	NA	NA
+Senegalimassilia	0	NA	NA	NA	NA	NA
+Shewanella	0	NA	NA	NA	NA	NA
+Solirubrobacter	0	NA	NA	NA	NA	NA
+Sphingoaurantiacus	0	NA	NA	NA	NA	NA
+Sphingobacterium	0	NA	NA	NA	NA	NA
+Sphingobium	0	NA	NA	NA	NA	NA
+Sphingomonas	0	NA	NA	NA	NA	NA
+Sporomusa	0	NA	NA	NA	NA	NA
+Subdoligranulum	0	NA	NA	NA	NA	NA
+Sulfurifustis	0	NA	NA	NA	NA	NA
+Sulfuritalea	0	NA	NA	NA	NA	NA
+Taibaiella	0	NA	NA	NA	NA	NA
+Tepidimonas	0	NA	NA	NA	NA	NA
+Thermus	0	NA	NA	NA	NA	NA
+Triticum aestivum (bread wheat)	0	NA	NA	NA	NA	NA
+Truepera	0	NA	NA	NA	NA	NA
+Turicibacter	0	NA	NA	NA	NA	NA
+Turneriella	0	NA	NA	NA	NA	NA
+UBA1819	0	NA	NA	NA	NA	NA
+Undibacterium	0	NA	NA	NA	NA	NA
+unknown_0319-6G20	0	NA	NA	NA	NA	NA
+unknown_A4b	0	NA	NA	NA	NA	NA
+unknown_Absconditabacteriales (SR1)	0	NA	NA	NA	NA	NA
+unknown_Acetobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Acidobacteriales	0	NA	NA	NA	NA	NA
+unknown_AKYH767	0	NA	NA	NA	NA	NA
+unknown_Alphaproteobacteria	0	NA	NA	NA	NA	NA
+unknown_Anaerolineaceae	0	NA	NA	NA	NA	NA
+unknown_Babeliales	0	NA	NA	NA	NA	NA
+unknown_Bacilli	0	NA	NA	NA	NA	NA
+unknown_bacteriap25	0	NA	NA	NA	NA	NA
+unknown_BD2-11 terrestrial group	0	NA	NA	NA	NA	NA
+unknown_Beijerinckiaceae	0	NA	NA	NA	NA	NA
+unknown_BRC1	0	NA	NA	NA	NA	NA
+unknown_Caenarcaniphilales	0	NA	NA	NA	NA	NA
+unknown_Candidatus Abawacabacteria	0	NA	NA	NA	NA	NA
+unknown_Candidatus Gottesmanbacteria	0	NA	NA	NA	NA	NA
+unknown_Caulobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Chitinophagaceae	0	NA	NA	NA	NA	NA
+unknown_Chitinophagales	0	NA	NA	NA	NA	NA
+unknown_Chloroplast	0	NA	NA	NA	NA	NA
+unknown_Chroococcidiopsaceae	0	NA	NA	NA	NA	NA
+unknown_Clostridiales	0	NA	NA	NA	NA	NA
+unknown_Clostridiales vadinBB60 group	0	NA	NA	NA	NA	NA
+unknown_Corynebacteriales	0	NA	NA	NA	NA	NA
+unknown_Elsterales	0	NA	NA	NA	NA	NA
+unknown_Enterococcaceae	0	NA	NA	NA	NA	NA
+unknown_FBP	0	NA	NA	NA	NA	NA
+unknown_Frankiales	0	NA	NA	NA	NA	NA
+unknown_Gallionellaceae	0	NA	NA	NA	NA	NA
+unknown_Gammaproteobacteria	0	NA	NA	NA	NA	NA
+unknown_Gammaproteobacteria Incertae Sedis	0	NA	NA	NA	NA	NA
+unknown_Gastranaerophilales	0	NA	NA	NA	NA	NA
+unknown_Gemmataceae	0	NA	NA	NA	NA	NA
+unknown_Gemmatimonadaceae	0	NA	NA	NA	NA	NA
+unknown_Geodermatophilaceae	0	NA	NA	NA	NA	NA
+unknown_Holosporaceae	0	NA	NA	NA	NA	NA
+unknown_Intrasporangiaceae	0	NA	NA	NA	NA	NA
+unknown_JG30-KF-CM45	0	NA	NA	NA	NA	NA
+unknown_JG30-KF-CM66	0	NA	NA	NA	NA	NA
+unknown_Ktedonobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Lachnospiraceae	0	NA	NA	NA	NA	NA
+unknown_Lineage IV	0	NA	NA	NA	NA	NA
+unknown_Methylophilaceae	0	NA	NA	NA	NA	NA
+unknown_Micavibrionales	0	NA	NA	NA	NA	NA
+unknown_Microbacteriaceae	0	NA	NA	NA	NA	NA
+unknown_Micrococcaceae	0	NA	NA	NA	NA	NA
+unknown_Micrococcales	0	NA	NA	NA	NA	NA
+unknown_Micromonosporaceae	0	NA	NA	NA	NA	NA
+unknown_Micropepsaceae	0	NA	NA	NA	NA	NA
+unknown_mle1-27	0	NA	NA	NA	NA	NA
+unknown_Mollicutes RF39	0	NA	NA	NA	NA	NA
+unknown_MVP-88	0	NA	NA	NA	NA	NA
+unknown_Myxococcales	0	NA	NA	NA	NA	NA
+unknown_Neisseriaceae	0	NA	NA	NA	NA	NA
+unknown_Nitrosomonadaceae	0	NA	NA	NA	NA	NA
+unknown_Obscuribacterales	0	NA	NA	NA	NA	NA
+unknown_OLB14	0	NA	NA	NA	NA	NA
+unknown_Oligoflexaceae	0	NA	NA	NA	NA	NA
+unknown_OM190	0	NA	NA	NA	NA	NA
+unknown_Omnitrophicaeota	0	NA	NA	NA	NA	NA
+unknown_OPB56	0	NA	NA	NA	NA	NA
+unknown_Paracaedibacteraceae	0	NA	NA	NA	NA	NA
+unknown_Parcubacteria	0	NA	NA	NA	NA	NA
+unknown_PB19	0	NA	NA	NA	NA	NA
+unknown_Pedosphaeraceae	0	NA	NA	NA	NA	NA
+unknown_Phaseolus acutifolius (tepary bean)	0	NA	NA	NA	NA	NA
+unknown_Planctomycetales	0	NA	NA	NA	NA	NA
+unknown_Polyangiaceae	0	NA	NA	NA	NA	NA
+unknown_Prevotellaceae	0	NA	NA	NA	NA	NA
+unknown_Propionibacteriaceae	0	NA	NA	NA	NA	NA
+unknown_Rhizobiaceae	0	NA	NA	NA	NA	NA
+unknown_Rhizobiales Incertae Sedis	0	NA	NA	NA	NA	NA
+unknown_Rhodanobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Rhodobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Rhodocyclaceae	0	NA	NA	NA	NA	NA
+unknown_Rhodospirillaceae	0	NA	NA	NA	NA	NA
+unknown_Rhodospirillales	0	NA	NA	NA	NA	NA
+unknown_Ruminococcaceae	0	NA	NA	NA	NA	NA
+unknown_SM2D12	0	NA	NA	NA	NA	NA
+unknown_Solimonadaceae	0	NA	NA	NA	NA	NA
+unknown_Sphingomonadaceae	0	NA	NA	NA	NA	NA
+unknown_Staphylococcaceae	0	NA	NA	NA	NA	NA
+unknown_Subgroup 17	0	NA	NA	NA	NA	NA
+unknown_Subgroup 6	0	NA	NA	NA	NA	NA
+unknown_Subgroup 7	0	NA	NA	NA	NA	NA
+unknown_Thalassobaculales	0	NA	NA	NA	NA	NA
+unknown_Thermodesulfovibrionia	0	NA	NA	NA	NA	NA
+unknown_Triticum aestivum (bread wheat)	0	NA	NA	NA	NA	NA
+unknown_UBA12409	0	NA	NA	NA	NA	NA
+unknown_Veillonellaceae	0	NA	NA	NA	NA	NA
+unknown_WD260	0	NA	NA	NA	NA	NA
+unknown_Weeksellaceae	0	NA	NA	NA	NA	NA
+unknown_WPS-2	0	NA	NA	NA	NA	NA
+unknown_Xanthobacteraceae	0	NA	NA	NA	NA	NA
+Vagococcus	0	NA	NA	NA	NA	NA
+Variovorax	0	NA	NA	NA	NA	NA
+Vibrionimonas	0	NA	NA	NA	NA	NA
+Vulcaniibacterium	0	NA	NA	NA	NA	NA
+Williamsia	0	NA	NA	NA	NA	NA
+						
+Graz_Leoben						
+genus	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj
+Lactobacillus	250.208	-5.65	1.308	-4.318	0	0
+Klebsiella	51.387	24.861	2.925	8.498	0	0
+Haemophilus	3.391	-24.133	2.929	-8.238	0	0
+Staphylococcus	5034.702	-1.8	0.85	-2.118	0.034	0.274
+Corynebacterium 1	8.216	4.637	2.397	1.935	0.053	0.339
+unknown_Lactobacillales	9.561	3.125	1.93	1.62	0.105	0.562
+Streptococcus	17.24	2.143	1.552	1.381	0.167	0.765
+Veillonella	93.69	-3.463	2.655	-1.304	0.192	0.768
+Enterococcus	32557.533	-0.025	0.726	-0.035	0.972	1
+Bifidobacterium	0.152	-1.066	2.951	-0.361	0.718	1
+Enterobacter	2.83	0.488	2.908	0.168	0.867	1
+Clostridium sensu stricto 1	0	0	0	0	1	1
+Escherichia-Shigella	1.76	0.421	2.851	0.148	0.883	1
+unknown_Enterobacteriaceae	0.316	1.902	2.914	0.653	0.514	1
+Rothia	0.215	1.575	2.951	0.534	0.594	1
+unknown_Bacteria	1.693	1.002	2.493	0.402	0.688	1
+Eikenella	0	0	0	0	1	1
+Finegoldia	0.281	0.239	2.951	0.081	0.935	1
+Acinetobacter	0.461	-0.576	2.943	-0.196	0.845	1
+Gemella	0.012	0.265	2.956	0.09	0.929	1
+Elizabethkingia	0.301	1.83	2.95	0.62	0.535	1
+Ureaplasma	0.225	-1.365	2.949	-0.463	0.643	1
+unknown_Burkholderiaceae	0.496	-2.128	2.876	-0.74	0.459	1
+Ralstonia	0.079	-0.634	2.954	-0.215	0.83	1
+Aeromonas	0.137	1.212	2.953	0.41	0.681	1
+Bacillus	0.241	1.262	2.953	0.428	0.669	1
+Micrococcus	0.135	-0.908	2.952	-0.308	0.758	1
+Stenotrophomonas	0.09	-0.675	2.954	-0.228	0.819	1
+Achromobacter	0.072	-0.476	2.954	-0.161	0.872	1
+unknown_Sericytochromatia	0.003	0.131	2.956	0.044	0.965	1
+Empedobacter	0.096	-0.285	2.955	-0.097	0.923	1
+unknown_Pasteurellaceae	0.02	-0.167	2.955	-0.056	0.955	1
+Geobacillus	0	NA	NA	NA	NA	NA
+Ochrobactrum	0	NA	NA	NA	NA	NA
+Lactococcus	0	NA	NA	NA	NA	NA
+Pseudomonas	0	NA	NA	NA	NA	NA
+Craurococcus	0	NA	NA	NA	NA	NA
+Prevotella	0	NA	NA	NA	NA	NA
+Blautia	0	NA	NA	NA	NA	NA
+Saccharopolyspora	0	NA	NA	NA	NA	NA
+Serratia	0	NA	NA	NA	NA	NA
+unknown_Diplorickettsiaceae	0	NA	NA	NA	NA	NA
+unknown_Mitochondria	0	NA	NA	NA	NA	NA
+Pandoraea	0	NA	NA	NA	NA	NA
+Paracoccus	0	NA	NA	NA	NA	NA
+Vibrio	0	NA	NA	NA	NA	NA
+unknown_Actinobacteria	0	NA	NA	NA	NA	NA
+unknown_Betaproteobacteriales	0	NA	NA	NA	NA	NA
+[Eubacterium] brachy group	0	NA	NA	NA	NA	NA
+[Eubacterium] coprostanoligenes group	0	NA	NA	NA	NA	NA
+[Eubacterium] eligens group	0	NA	NA	NA	NA	NA
+[Eubacterium] hallii group	0	NA	NA	NA	NA	NA
+[Eubacterium] ruminantium group	0	NA	NA	NA	NA	NA
+[Eubacterium] xylanophilum group	0	NA	NA	NA	NA	NA
+[Ruminococcus] gauvreauii group	0	NA	NA	NA	NA	NA
+AAP99	0	NA	NA	NA	NA	NA
+Abiotrophia	0	NA	NA	NA	NA	NA
+Actinomyces	0	NA	NA	NA	NA	NA
+Actinotignum	0	NA	NA	NA	NA	NA
+Adhaeribacter	0	NA	NA	NA	NA	NA
+Afipia	0	NA	NA	NA	NA	NA
+Agathobacter	0	NA	NA	NA	NA	NA
+Agromyces	0	NA	NA	NA	NA	NA
+Akkermansia	0	NA	NA	NA	NA	NA
+Alcaligenes	0	NA	NA	NA	NA	NA
+Aliidiomarina	0	NA	NA	NA	NA	NA
+Alistipes	0	NA	NA	NA	NA	NA
+Aliterella CENA595	0	NA	NA	NA	NA	NA
+Allisonella	0	NA	NA	NA	NA	NA
+Alloprevotella	0	NA	NA	NA	NA	NA
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0	NA	NA	NA	NA	NA
+alphaI cluster	0	NA	NA	NA	NA	NA
+Altererythrobacter	0	NA	NA	NA	NA	NA
+Aminobacter	0	NA	NA	NA	NA	NA
+Anaerococcus	0	NA	NA	NA	NA	NA
+Anaerostipes	0	NA	NA	NA	NA	NA
+Anoxybacillus	0	NA	NA	NA	NA	NA
+Aquabacterium	0	NA	NA	NA	NA	NA
+Aquipuribacter	0	NA	NA	NA	NA	NA
+Atopobium	0	NA	NA	NA	NA	NA
+Atopostipes	0	NA	NA	NA	NA	NA
+Bacteriovorax	0	NA	NA	NA	NA	NA
+Bacteroides	0	NA	NA	NA	NA	NA
+Bergeyella	0	NA	NA	NA	NA	NA
+Bilophila	0	NA	NA	NA	NA	NA
+Blastococcus	0	NA	NA	NA	NA	NA
+Bordetella	0	NA	NA	NA	NA	NA
+Bosea	0	NA	NA	NA	NA	NA
+Brachybacterium	0	NA	NA	NA	NA	NA
+Bradyrhizobium	0	NA	NA	NA	NA	NA
+Brevibacterium	0	NA	NA	NA	NA	NA
+Brevundimonas	0	NA	NA	NA	NA	NA
+Bryobacter	0	NA	NA	NA	NA	NA
+Burkholderia-Caballeronia-Paraburkholderia	0	NA	NA	NA	NA	NA
+Butyricicoccus	0	NA	NA	NA	NA	NA
+Butyrivibrio	0	NA	NA	NA	NA	NA
+CAG-56	0	NA	NA	NA	NA	NA
+Candidatus Captivus	0	NA	NA	NA	NA	NA
+Candidatus Nitrotoga	0	NA	NA	NA	NA	NA
+Candidatus Paracaedibacter	0	NA	NA	NA	NA	NA
+Candidatus Soleaferrea	0	NA	NA	NA	NA	NA
+Capnocytophaga	0	NA	NA	NA	NA	NA
+Caulobacter	0	NA	NA	NA	NA	NA
+Cellulomonas	0	NA	NA	NA	NA	NA
+Christensenellaceae R-7 group	0	NA	NA	NA	NA	NA
+Chryseobacterium	0	NA	NA	NA	NA	NA
+Cloacibacterium	0	NA	NA	NA	NA	NA
+Collinsella	0	NA	NA	NA	NA	NA
+Coprococcus 1	0	NA	NA	NA	NA	NA
+Coprococcus 2	0	NA	NA	NA	NA	NA
+Coprococcus 3	0	NA	NA	NA	NA	NA
+Corynebacterium	0	NA	NA	NA	NA	NA
+Crocinitomix	0	NA	NA	NA	NA	NA
+Cupriavidus	0	NA	NA	NA	NA	NA
+Curvibacter	0	NA	NA	NA	NA	NA
+Cutibacterium	0	NA	NA	NA	NA	NA
+Defluviitaleaceae UCG-011	0	NA	NA	NA	NA	NA
+Deinococcus	0	NA	NA	NA	NA	NA
+Delftia	0	NA	NA	NA	NA	NA
+Desulfocapsa	0	NA	NA	NA	NA	NA
+Dialister	0	NA	NA	NA	NA	NA
+Dielma	0	NA	NA	NA	NA	NA
+Dorea	0	NA	NA	NA	NA	NA
+Dyella	0	NA	NA	NA	NA	NA
+Dysgonomonas	0	NA	NA	NA	NA	NA
+Effusibacillus	0	NA	NA	NA	NA	NA
+Enhydrobacter	0	NA	NA	NA	NA	NA
+Enterorhabdus	0	NA	NA	NA	NA	NA
+Erysipelotrichaceae UCG-003	0	NA	NA	NA	NA	NA
+Erythrobacter	0	NA	NA	NA	NA	NA
+Exiguobacterium	0	NA	NA	NA	NA	NA
+Ezakiella	0	NA	NA	NA	NA	NA
+Facklamia	0	NA	NA	NA	NA	NA
+Faecalibacterium	0	NA	NA	NA	NA	NA
+Family XIII AD3011 group	0	NA	NA	NA	NA	NA
+Ferruginibacter	0	NA	NA	NA	NA	NA
+Firmicutes bacterium CAG:345	0	NA	NA	NA	NA	NA
+Flavobacterium	0	NA	NA	NA	NA	NA
+Fournierella	0	NA	NA	NA	NA	NA
+Friedmanniella	0	NA	NA	NA	NA	NA
+Fusicatenibacter	0	NA	NA	NA	NA	NA
+Fusobacterium	0	NA	NA	NA	NA	NA
+Gallionella	0	NA	NA	NA	NA	NA
+Gardnerella	0	NA	NA	NA	NA	NA
+Garicola	0	NA	NA	NA	NA	NA
+GCA-900066225	0	NA	NA	NA	NA	NA
+Gemmata	0	NA	NA	NA	NA	NA
+Gemmatirosa	0	NA	NA	NA	NA	NA
+Geodermatophilus	0	NA	NA	NA	NA	NA
+Gordonia	0	NA	NA	NA	NA	NA
+Granulicatella	0	NA	NA	NA	NA	NA
+Halomonas	0	NA	NA	NA	NA	NA
+Herbaspirillum	0	NA	NA	NA	NA	NA
+Herbinix	0	NA	NA	NA	NA	NA
+Herminiimonas	0	NA	NA	NA	NA	NA
+Holdemanella	0	NA	NA	NA	NA	NA
+Hydrogenoanaerobacterium	0	NA	NA	NA	NA	NA
+Hymenobacter	0	NA	NA	NA	NA	NA
+Intestinibacter	0	NA	NA	NA	NA	NA
+Janthinobacterium	0	NA	NA	NA	NA	NA
+Jatrophihabitans	0	NA	NA	NA	NA	NA
+JGI 0001001-H03	0	NA	NA	NA	NA	NA
+Jonquetella	0	NA	NA	NA	NA	NA
+Kocuria	0	NA	NA	NA	NA	NA
+Lachnoanaerobaculum	0	NA	NA	NA	NA	NA
+Lachnoclostridium	0	NA	NA	NA	NA	NA
+Lachnospira	0	NA	NA	NA	NA	NA
+Lachnospiraceae FCS020 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae ND3007 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae NK4A136 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae UCG-001	0	NA	NA	NA	NA	NA
+Lautropia	0	NA	NA	NA	NA	NA
+Legionella	0	NA	NA	NA	NA	NA
+Leptospira	0	NA	NA	NA	NA	NA
+Leucobacter	0	NA	NA	NA	NA	NA
+Luteibacter	0	NA	NA	NA	NA	NA
+Lysinibacillus	0	NA	NA	NA	NA	NA
+Macellibacteroides	0	NA	NA	NA	NA	NA
+Marinomonas	0	NA	NA	NA	NA	NA
+Marmoricola	0	NA	NA	NA	NA	NA
+Massilia	0	NA	NA	NA	NA	NA
+Mesorhizobium	0	NA	NA	NA	NA	NA
+Methylobacterium	0	NA	NA	NA	NA	NA
+Microbacterium	0	NA	NA	NA	NA	NA
+Microlunatus	0	NA	NA	NA	NA	NA
+Microvirga	0	NA	NA	NA	NA	NA
+MND1	0	NA	NA	NA	NA	NA
+Mobiluncus	0	NA	NA	NA	NA	NA
+Modestobacter	0	NA	NA	NA	NA	NA
+Moraxella	0	NA	NA	NA	NA	NA
+Mycobacterium	0	NA	NA	NA	NA	NA
+Mycoplasma	0	NA	NA	NA	NA	NA
+Negativibacillus	0	NA	NA	NA	NA	NA
+Neisseria	0	NA	NA	NA	NA	NA
+Nitrospira	0	NA	NA	NA	NA	NA
+Nocardioides	0	NA	NA	NA	NA	NA
+Novosphingobium	0	NA	NA	NA	NA	NA
+Odoribacter	0	NA	NA	NA	NA	NA
+Olsenella	0	NA	NA	NA	NA	NA
+Paenibacillus	0	NA	NA	NA	NA	NA
+Pajaroellobacter	0	NA	NA	NA	NA	NA
+Panacagrimonas	0	NA	NA	NA	NA	NA
+Pantoea	0	NA	NA	NA	NA	NA
+Parabacteroides	0	NA	NA	NA	NA	NA
+Parasutterella	0	NA	NA	NA	NA	NA
+Pedobacter	0	NA	NA	NA	NA	NA
+Pedomicrobium	0	NA	NA	NA	NA	NA
+Pelomonas	0	NA	NA	NA	NA	NA
+Phaeodactylibacter	0	NA	NA	NA	NA	NA
+Phascolarctobacterium	0	NA	NA	NA	NA	NA
+Phenylobacterium	0	NA	NA	NA	NA	NA
+Phyllobacterium	0	NA	NA	NA	NA	NA
+Planktothrix NIVA-CYA 15	0	NA	NA	NA	NA	NA
+Porphyromonas	0	NA	NA	NA	NA	NA
+Prevotella 6	0	NA	NA	NA	NA	NA
+Prevotella 9	0	NA	NA	NA	NA	NA
+Prevotellaceae NK3B31 group	0	NA	NA	NA	NA	NA
+Prevotellaceae UCG-004	0	NA	NA	NA	NA	NA
+Pseudochrobactrum	0	NA	NA	NA	NA	NA
+Pseudolabrys	0	NA	NA	NA	NA	NA
+Pseudoxanthomonas	0	NA	NA	NA	NA	NA
+Psychroglaciecola	0	NA	NA	NA	NA	NA
+Quadrisphaera	0	NA	NA	NA	NA	NA
+RB41	0	NA	NA	NA	NA	NA
+Reyranella	0	NA	NA	NA	NA	NA
+Rhodanobacter	0	NA	NA	NA	NA	NA
+Rhodobacter	0	NA	NA	NA	NA	NA
+Rhodococcus	0	NA	NA	NA	NA	NA
+Romboutsia	0	NA	NA	NA	NA	NA
+Roseburia	0	NA	NA	NA	NA	NA
+Roseomonas	0	NA	NA	NA	NA	NA
+Rubellimicrobium	0	NA	NA	NA	NA	NA
+Rubrobacter	0	NA	NA	NA	NA	NA
+Ruminiclostridium 5	0	NA	NA	NA	NA	NA
+Ruminiclostridium 6	0	NA	NA	NA	NA	NA
+Ruminiclostridium 9	0	NA	NA	NA	NA	NA
+Ruminococcaceae NK4A214 group	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-002	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-003	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-004	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-005	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-010	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-013	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-014	0	NA	NA	NA	NA	NA
+Ruminococcus 1	0	NA	NA	NA	NA	NA
+Ruminococcus 2	0	NA	NA	NA	NA	NA
+S5-A14a	0	NA	NA	NA	NA	NA
+Salipaludibacillus	0	NA	NA	NA	NA	NA
+Schlesneria	0	NA	NA	NA	NA	NA
+Sediminibacterium	0	NA	NA	NA	NA	NA
+Selenomonas 3	0	NA	NA	NA	NA	NA
+Senegalimassilia	0	NA	NA	NA	NA	NA
+Shewanella	0	NA	NA	NA	NA	NA
+Solirubrobacter	0	NA	NA	NA	NA	NA
+Sphingoaurantiacus	0	NA	NA	NA	NA	NA
+Sphingobacterium	0	NA	NA	NA	NA	NA
+Sphingobium	0	NA	NA	NA	NA	NA
+Sphingomonas	0	NA	NA	NA	NA	NA
+Sporomusa	0	NA	NA	NA	NA	NA
+Subdoligranulum	0	NA	NA	NA	NA	NA
+Sulfurifustis	0	NA	NA	NA	NA	NA
+Sulfuritalea	0	NA	NA	NA	NA	NA
+Taibaiella	0	NA	NA	NA	NA	NA
+Tepidimonas	0	NA	NA	NA	NA	NA
+Thermus	0	NA	NA	NA	NA	NA
+Triticum aestivum (bread wheat)	0	NA	NA	NA	NA	NA
+Truepera	0	NA	NA	NA	NA	NA
+Turicibacter	0	NA	NA	NA	NA	NA
+Turneriella	0	NA	NA	NA	NA	NA
+UBA1819	0	NA	NA	NA	NA	NA
+Undibacterium	0	NA	NA	NA	NA	NA
+unknown_0319-6G20	0	NA	NA	NA	NA	NA
+unknown_A4b	0	NA	NA	NA	NA	NA
+unknown_Absconditabacteriales (SR1)	0	NA	NA	NA	NA	NA
+unknown_Acetobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Acidobacteriales	0	NA	NA	NA	NA	NA
+unknown_AKYH767	0	NA	NA	NA	NA	NA
+unknown_Alphaproteobacteria	0	NA	NA	NA	NA	NA
+unknown_Anaerolineaceae	0	NA	NA	NA	NA	NA
+unknown_Babeliales	0	NA	NA	NA	NA	NA
+unknown_Bacilli	0	NA	NA	NA	NA	NA
+unknown_bacteriap25	0	NA	NA	NA	NA	NA
+unknown_BD2-11 terrestrial group	0	NA	NA	NA	NA	NA
+unknown_Beijerinckiaceae	0	NA	NA	NA	NA	NA
+unknown_BRC1	0	NA	NA	NA	NA	NA
+unknown_Caenarcaniphilales	0	NA	NA	NA	NA	NA
+unknown_Candidatus Abawacabacteria	0	NA	NA	NA	NA	NA
+unknown_Candidatus Gottesmanbacteria	0	NA	NA	NA	NA	NA
+unknown_Caulobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Chitinophagaceae	0	NA	NA	NA	NA	NA
+unknown_Chitinophagales	0	NA	NA	NA	NA	NA
+unknown_Chloroplast	0	NA	NA	NA	NA	NA
+unknown_Chroococcidiopsaceae	0	NA	NA	NA	NA	NA
+unknown_Clostridiales	0	NA	NA	NA	NA	NA
+unknown_Clostridiales vadinBB60 group	0	NA	NA	NA	NA	NA
+unknown_Corynebacteriales	0	NA	NA	NA	NA	NA
+unknown_Elsterales	0	NA	NA	NA	NA	NA
+unknown_Enterococcaceae	0	NA	NA	NA	NA	NA
+unknown_FBP	0	NA	NA	NA	NA	NA
+unknown_Frankiales	0	NA	NA	NA	NA	NA
+unknown_Gallionellaceae	0	NA	NA	NA	NA	NA
+unknown_Gammaproteobacteria	0	NA	NA	NA	NA	NA
+unknown_Gammaproteobacteria Incertae Sedis	0	NA	NA	NA	NA	NA
+unknown_Gastranaerophilales	0	NA	NA	NA	NA	NA
+unknown_Gemmataceae	0	NA	NA	NA	NA	NA
+unknown_Gemmatimonadaceae	0	NA	NA	NA	NA	NA
+unknown_Geodermatophilaceae	0	NA	NA	NA	NA	NA
+unknown_Holosporaceae	0	NA	NA	NA	NA	NA
+unknown_Intrasporangiaceae	0	NA	NA	NA	NA	NA
+unknown_JG30-KF-CM45	0	NA	NA	NA	NA	NA
+unknown_JG30-KF-CM66	0	NA	NA	NA	NA	NA
+unknown_Ktedonobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Lachnospiraceae	0	NA	NA	NA	NA	NA
+unknown_Lineage IV	0	NA	NA	NA	NA	NA
+unknown_Methylophilaceae	0	NA	NA	NA	NA	NA
+unknown_Micavibrionales	0	NA	NA	NA	NA	NA
+unknown_Microbacteriaceae	0	NA	NA	NA	NA	NA
+unknown_Micrococcaceae	0	NA	NA	NA	NA	NA
+unknown_Micrococcales	0	NA	NA	NA	NA	NA
+unknown_Micromonosporaceae	0	NA	NA	NA	NA	NA
+unknown_Micropepsaceae	0	NA	NA	NA	NA	NA
+unknown_mle1-27	0	NA	NA	NA	NA	NA
+unknown_Mollicutes RF39	0	NA	NA	NA	NA	NA
+unknown_MVP-88	0	NA	NA	NA	NA	NA
+unknown_Myxococcales	0	NA	NA	NA	NA	NA
+unknown_Neisseriaceae	0	NA	NA	NA	NA	NA
+unknown_Nitrosomonadaceae	0	NA	NA	NA	NA	NA
+unknown_Obscuribacterales	0	NA	NA	NA	NA	NA
+unknown_OLB14	0	NA	NA	NA	NA	NA
+unknown_Oligoflexaceae	0	NA	NA	NA	NA	NA
+unknown_OM190	0	NA	NA	NA	NA	NA
+unknown_Omnitrophicaeota	0	NA	NA	NA	NA	NA
+unknown_OPB56	0	NA	NA	NA	NA	NA
+unknown_Paracaedibacteraceae	0	NA	NA	NA	NA	NA
+unknown_Parcubacteria	0	NA	NA	NA	NA	NA
+unknown_PB19	0	NA	NA	NA	NA	NA
+unknown_Pedosphaeraceae	0	NA	NA	NA	NA	NA
+unknown_Phaseolus acutifolius (tepary bean)	0	NA	NA	NA	NA	NA
+unknown_Planctomycetales	0	NA	NA	NA	NA	NA
+unknown_Polyangiaceae	0	NA	NA	NA	NA	NA
+unknown_Prevotellaceae	0	NA	NA	NA	NA	NA
+unknown_Propionibacteriaceae	0	NA	NA	NA	NA	NA
+unknown_Rhizobiaceae	0	NA	NA	NA	NA	NA
+unknown_Rhizobiales Incertae Sedis	0	NA	NA	NA	NA	NA
+unknown_Rhodanobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Rhodobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Rhodocyclaceae	0	NA	NA	NA	NA	NA
+unknown_Rhodospirillaceae	0	NA	NA	NA	NA	NA
+unknown_Rhodospirillales	0	NA	NA	NA	NA	NA
+unknown_Ruminococcaceae	0	NA	NA	NA	NA	NA
+unknown_SM2D12	0	NA	NA	NA	NA	NA
+unknown_Solimonadaceae	0	NA	NA	NA	NA	NA
+unknown_Sphingomonadaceae	0	NA	NA	NA	NA	NA
+unknown_Staphylococcaceae	0	NA	NA	NA	NA	NA
+unknown_Subgroup 17	0	NA	NA	NA	NA	NA
+unknown_Subgroup 6	0	NA	NA	NA	NA	NA
+unknown_Subgroup 7	0	NA	NA	NA	NA	NA
+unknown_Thalassobaculales	0	NA	NA	NA	NA	NA
+unknown_Thermodesulfovibrionia	0	NA	NA	NA	NA	NA
+unknown_Triticum aestivum (bread wheat)	0	NA	NA	NA	NA	NA
+unknown_UBA12409	0	NA	NA	NA	NA	NA
+unknown_Veillonellaceae	0	NA	NA	NA	NA	NA
+unknown_WD260	0	NA	NA	NA	NA	NA
+unknown_Weeksellaceae	0	NA	NA	NA	NA	NA
+unknown_WPS-2	0	NA	NA	NA	NA	NA
+unknown_Xanthobacteraceae	0	NA	NA	NA	NA	NA
+Vagococcus	0	NA	NA	NA	NA	NA
+Variovorax	0	NA	NA	NA	NA	NA
+Vibrionimonas	0	NA	NA	NA	NA	NA
+Vulcaniibacterium	0	NA	NA	NA	NA	NA
+Williamsia	0	NA	NA	NA	NA	NA
+						
+Leoben_Klagenfurt						
+genus	baseMean	log2FoldChange	lfcSE	stat	pvalue	padj
+Enterococcus	15883.233	5.576	1.088	5.127	0	0
+Bifidobacterium	32970.714	-6.49	1.596	-4.065	0	0
+Lactobacillus	1360.86	-6.554	1.196	-5.481	0	0
+Geobacillus	1651.508	-14.213	0.998	-14.241	0	0
+Klebsiella	18.815	23.728	2.926	8.11	0	0
+Enterobacter	3.54	21.086	2.929	7.2	0	0
+unknown_Lactobacillales	14.815	6.795	2.028	3.351	0.001	0.005
+Lactococcus	8.711	-6.578	2.32	-2.835	0.005	0.025
+Veillonella	33.506	6.615	2.916	2.268	0.023	0.111
+Streptococcus	130.313	-2.203	1.352	-1.63	0.103	0.443
+Corynebacterium 1	10.651	2.706	1.962	1.38	0.168	0.649
+Pseudomonas	1.27	-3.801	2.843	-1.337	0.181	0.649
+Escherichia-Shigella	2.906	-3.049	2.918	-1.045	0.296	0.979
+Staphylococcus	1920.941	-0.131	0.874	-0.15	0.881	1
+Clostridium sensu stricto 1	0	0	0	0	1	1
+unknown_Enterobacteriaceae	1.145	2.361	2.913	0.811	0.418	1
+Haemophilus	0	0	0	0	1	1
+Ochrobactrum	0	0	0	0	1	1
+Rothia	0.699	1.725	2.941	0.586	0.558	1
+unknown_Bacteria	3.845	-0.536	2.306	-0.232	0.816	1
+Eikenella	0	0	0	0	1	1
+Finegoldia	0.823	-1.587	2.942	-0.539	0.59	1
+Acinetobacter	0.116	0.818	2.954	0.277	0.782	1
+Gemella	0.085	0.624	2.954	0.211	0.833	1
+Elizabethkingia	1.093	0.171	2.781	0.062	0.951	1
+Ureaplasma	0	0	0	0	1	1
+unknown_Burkholderiaceae	0	0	0	0	1	1
+Ralstonia	0.492	-2.302	2.947	-0.781	0.435	1
+Craurococcus	0.193	-1.634	2.953	-0.553	0.58	1
+Prevotella	0.381	-2.261	2.948	-0.767	0.443	1
+Aeromonas	0.116	0.818	2.954	0.277	0.782	1
+Bacillus	0.15	0.787	2.954	0.266	0.79	1
+Blautia	0	0	0	0	1	1
+Saccharopolyspora	0.327	-1.13	2.956	-0.382	0.702	1
+Serratia	0.327	-1.13	2.956	-0.382	0.702	1
+unknown_Diplorickettsiaceae	0.327	-1.13	2.956	-0.382	0.702	1
+unknown_Mitochondria	0.169	-1.13	2.956	-0.382	0.702	1
+Pandoraea	0.127	-0.926	2.957	-0.313	0.754	1
+Paracoccus	0.127	-0.926	2.957	-0.313	0.754	1
+unknown_Sericytochromatia	0.018	-0.067	2.958	-0.023	0.982	1
+Vibrio	0.065	-0.926	2.957	-0.313	0.754	1
+unknown_Actinobacteria	0.163	-0.735	2.957	-0.249	0.804	1
+unknown_Betaproteobacteriales	0.163	-0.735	2.957	-0.249	0.804	1
+Micrococcus	0	NA	NA	NA	NA	NA
+Stenotrophomonas	0	NA	NA	NA	NA	NA
+Achromobacter	0	NA	NA	NA	NA	NA
+Empedobacter	0	NA	NA	NA	NA	NA
+unknown_Pasteurellaceae	0	NA	NA	NA	NA	NA
+[Eubacterium] brachy group	0	NA	NA	NA	NA	NA
+[Eubacterium] coprostanoligenes group	0	NA	NA	NA	NA	NA
+[Eubacterium] eligens group	0	NA	NA	NA	NA	NA
+[Eubacterium] hallii group	0	NA	NA	NA	NA	NA
+[Eubacterium] ruminantium group	0	NA	NA	NA	NA	NA
+[Eubacterium] xylanophilum group	0	NA	NA	NA	NA	NA
+[Ruminococcus] gauvreauii group	0	NA	NA	NA	NA	NA
+AAP99	0	NA	NA	NA	NA	NA
+Abiotrophia	0	NA	NA	NA	NA	NA
+Actinomyces	0	NA	NA	NA	NA	NA
+Actinotignum	0	NA	NA	NA	NA	NA
+Adhaeribacter	0	NA	NA	NA	NA	NA
+Afipia	0	NA	NA	NA	NA	NA
+Agathobacter	0	NA	NA	NA	NA	NA
+Agromyces	0	NA	NA	NA	NA	NA
+Akkermansia	0	NA	NA	NA	NA	NA
+Alcaligenes	0	NA	NA	NA	NA	NA
+Aliidiomarina	0	NA	NA	NA	NA	NA
+Alistipes	0	NA	NA	NA	NA	NA
+Aliterella CENA595	0	NA	NA	NA	NA	NA
+Allisonella	0	NA	NA	NA	NA	NA
+Alloprevotella	0	NA	NA	NA	NA	NA
+Allorhizobium-Neorhizobium-Pararhizobium-Rhizobium	0	NA	NA	NA	NA	NA
+alphaI cluster	0	NA	NA	NA	NA	NA
+Altererythrobacter	0	NA	NA	NA	NA	NA
+Aminobacter	0	NA	NA	NA	NA	NA
+Anaerococcus	0	NA	NA	NA	NA	NA
+Anaerostipes	0	NA	NA	NA	NA	NA
+Anoxybacillus	0	NA	NA	NA	NA	NA
+Aquabacterium	0	NA	NA	NA	NA	NA
+Aquipuribacter	0	NA	NA	NA	NA	NA
+Atopobium	0	NA	NA	NA	NA	NA
+Atopostipes	0	NA	NA	NA	NA	NA
+Bacteriovorax	0	NA	NA	NA	NA	NA
+Bacteroides	0	NA	NA	NA	NA	NA
+Bergeyella	0	NA	NA	NA	NA	NA
+Bilophila	0	NA	NA	NA	NA	NA
+Blastococcus	0	NA	NA	NA	NA	NA
+Bordetella	0	NA	NA	NA	NA	NA
+Bosea	0	NA	NA	NA	NA	NA
+Brachybacterium	0	NA	NA	NA	NA	NA
+Bradyrhizobium	0	NA	NA	NA	NA	NA
+Brevibacterium	0	NA	NA	NA	NA	NA
+Brevundimonas	0	NA	NA	NA	NA	NA
+Bryobacter	0	NA	NA	NA	NA	NA
+Burkholderia-Caballeronia-Paraburkholderia	0	NA	NA	NA	NA	NA
+Butyricicoccus	0	NA	NA	NA	NA	NA
+Butyrivibrio	0	NA	NA	NA	NA	NA
+CAG-56	0	NA	NA	NA	NA	NA
+Candidatus Captivus	0	NA	NA	NA	NA	NA
+Candidatus Nitrotoga	0	NA	NA	NA	NA	NA
+Candidatus Paracaedibacter	0	NA	NA	NA	NA	NA
+Candidatus Soleaferrea	0	NA	NA	NA	NA	NA
+Capnocytophaga	0	NA	NA	NA	NA	NA
+Caulobacter	0	NA	NA	NA	NA	NA
+Cellulomonas	0	NA	NA	NA	NA	NA
+Christensenellaceae R-7 group	0	NA	NA	NA	NA	NA
+Chryseobacterium	0	NA	NA	NA	NA	NA
+Cloacibacterium	0	NA	NA	NA	NA	NA
+Collinsella	0	NA	NA	NA	NA	NA
+Coprococcus 1	0	NA	NA	NA	NA	NA
+Coprococcus 2	0	NA	NA	NA	NA	NA
+Coprococcus 3	0	NA	NA	NA	NA	NA
+Corynebacterium	0	NA	NA	NA	NA	NA
+Crocinitomix	0	NA	NA	NA	NA	NA
+Cupriavidus	0	NA	NA	NA	NA	NA
+Curvibacter	0	NA	NA	NA	NA	NA
+Cutibacterium	0	NA	NA	NA	NA	NA
+Defluviitaleaceae UCG-011	0	NA	NA	NA	NA	NA
+Deinococcus	0	NA	NA	NA	NA	NA
+Delftia	0	NA	NA	NA	NA	NA
+Desulfocapsa	0	NA	NA	NA	NA	NA
+Dialister	0	NA	NA	NA	NA	NA
+Dielma	0	NA	NA	NA	NA	NA
+Dorea	0	NA	NA	NA	NA	NA
+Dyella	0	NA	NA	NA	NA	NA
+Dysgonomonas	0	NA	NA	NA	NA	NA
+Effusibacillus	0	NA	NA	NA	NA	NA
+Enhydrobacter	0	NA	NA	NA	NA	NA
+Enterorhabdus	0	NA	NA	NA	NA	NA
+Erysipelotrichaceae UCG-003	0	NA	NA	NA	NA	NA
+Erythrobacter	0	NA	NA	NA	NA	NA
+Exiguobacterium	0	NA	NA	NA	NA	NA
+Ezakiella	0	NA	NA	NA	NA	NA
+Facklamia	0	NA	NA	NA	NA	NA
+Faecalibacterium	0	NA	NA	NA	NA	NA
+Family XIII AD3011 group	0	NA	NA	NA	NA	NA
+Ferruginibacter	0	NA	NA	NA	NA	NA
+Firmicutes bacterium CAG:345	0	NA	NA	NA	NA	NA
+Flavobacterium	0	NA	NA	NA	NA	NA
+Fournierella	0	NA	NA	NA	NA	NA
+Friedmanniella	0	NA	NA	NA	NA	NA
+Fusicatenibacter	0	NA	NA	NA	NA	NA
+Fusobacterium	0	NA	NA	NA	NA	NA
+Gallionella	0	NA	NA	NA	NA	NA
+Gardnerella	0	NA	NA	NA	NA	NA
+Garicola	0	NA	NA	NA	NA	NA
+GCA-900066225	0	NA	NA	NA	NA	NA
+Gemmata	0	NA	NA	NA	NA	NA
+Gemmatirosa	0	NA	NA	NA	NA	NA
+Geodermatophilus	0	NA	NA	NA	NA	NA
+Gordonia	0	NA	NA	NA	NA	NA
+Granulicatella	0	NA	NA	NA	NA	NA
+Halomonas	0	NA	NA	NA	NA	NA
+Herbaspirillum	0	NA	NA	NA	NA	NA
+Herbinix	0	NA	NA	NA	NA	NA
+Herminiimonas	0	NA	NA	NA	NA	NA
+Holdemanella	0	NA	NA	NA	NA	NA
+Hydrogenoanaerobacterium	0	NA	NA	NA	NA	NA
+Hymenobacter	0	NA	NA	NA	NA	NA
+Intestinibacter	0	NA	NA	NA	NA	NA
+Janthinobacterium	0	NA	NA	NA	NA	NA
+Jatrophihabitans	0	NA	NA	NA	NA	NA
+JGI 0001001-H03	0	NA	NA	NA	NA	NA
+Jonquetella	0	NA	NA	NA	NA	NA
+Kocuria	0	NA	NA	NA	NA	NA
+Lachnoanaerobaculum	0	NA	NA	NA	NA	NA
+Lachnoclostridium	0	NA	NA	NA	NA	NA
+Lachnospira	0	NA	NA	NA	NA	NA
+Lachnospiraceae FCS020 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae ND3007 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae NK4A136 group	0	NA	NA	NA	NA	NA
+Lachnospiraceae UCG-001	0	NA	NA	NA	NA	NA
+Lautropia	0	NA	NA	NA	NA	NA
+Legionella	0	NA	NA	NA	NA	NA
+Leptospira	0	NA	NA	NA	NA	NA
+Leucobacter	0	NA	NA	NA	NA	NA
+Luteibacter	0	NA	NA	NA	NA	NA
+Lysinibacillus	0	NA	NA	NA	NA	NA
+Macellibacteroides	0	NA	NA	NA	NA	NA
+Marinomonas	0	NA	NA	NA	NA	NA
+Marmoricola	0	NA	NA	NA	NA	NA
+Massilia	0	NA	NA	NA	NA	NA
+Mesorhizobium	0	NA	NA	NA	NA	NA
+Methylobacterium	0	NA	NA	NA	NA	NA
+Microbacterium	0	NA	NA	NA	NA	NA
+Microlunatus	0	NA	NA	NA	NA	NA
+Microvirga	0	NA	NA	NA	NA	NA
+MND1	0	NA	NA	NA	NA	NA
+Mobiluncus	0	NA	NA	NA	NA	NA
+Modestobacter	0	NA	NA	NA	NA	NA
+Moraxella	0	NA	NA	NA	NA	NA
+Mycobacterium	0	NA	NA	NA	NA	NA
+Mycoplasma	0	NA	NA	NA	NA	NA
+Negativibacillus	0	NA	NA	NA	NA	NA
+Neisseria	0	NA	NA	NA	NA	NA
+Nitrospira	0	NA	NA	NA	NA	NA
+Nocardioides	0	NA	NA	NA	NA	NA
+Novosphingobium	0	NA	NA	NA	NA	NA
+Odoribacter	0	NA	NA	NA	NA	NA
+Olsenella	0	NA	NA	NA	NA	NA
+Paenibacillus	0	NA	NA	NA	NA	NA
+Pajaroellobacter	0	NA	NA	NA	NA	NA
+Panacagrimonas	0	NA	NA	NA	NA	NA
+Pantoea	0	NA	NA	NA	NA	NA
+Parabacteroides	0	NA	NA	NA	NA	NA
+Parasutterella	0	NA	NA	NA	NA	NA
+Pedobacter	0	NA	NA	NA	NA	NA
+Pedomicrobium	0	NA	NA	NA	NA	NA
+Pelomonas	0	NA	NA	NA	NA	NA
+Phaeodactylibacter	0	NA	NA	NA	NA	NA
+Phascolarctobacterium	0	NA	NA	NA	NA	NA
+Phenylobacterium	0	NA	NA	NA	NA	NA
+Phyllobacterium	0	NA	NA	NA	NA	NA
+Planktothrix NIVA-CYA 15	0	NA	NA	NA	NA	NA
+Porphyromonas	0	NA	NA	NA	NA	NA
+Prevotella 6	0	NA	NA	NA	NA	NA
+Prevotella 9	0	NA	NA	NA	NA	NA
+Prevotellaceae NK3B31 group	0	NA	NA	NA	NA	NA
+Prevotellaceae UCG-004	0	NA	NA	NA	NA	NA
+Pseudochrobactrum	0	NA	NA	NA	NA	NA
+Pseudolabrys	0	NA	NA	NA	NA	NA
+Pseudoxanthomonas	0	NA	NA	NA	NA	NA
+Psychroglaciecola	0	NA	NA	NA	NA	NA
+Quadrisphaera	0	NA	NA	NA	NA	NA
+RB41	0	NA	NA	NA	NA	NA
+Reyranella	0	NA	NA	NA	NA	NA
+Rhodanobacter	0	NA	NA	NA	NA	NA
+Rhodobacter	0	NA	NA	NA	NA	NA
+Rhodococcus	0	NA	NA	NA	NA	NA
+Romboutsia	0	NA	NA	NA	NA	NA
+Roseburia	0	NA	NA	NA	NA	NA
+Roseomonas	0	NA	NA	NA	NA	NA
+Rubellimicrobium	0	NA	NA	NA	NA	NA
+Rubrobacter	0	NA	NA	NA	NA	NA
+Ruminiclostridium 5	0	NA	NA	NA	NA	NA
+Ruminiclostridium 6	0	NA	NA	NA	NA	NA
+Ruminiclostridium 9	0	NA	NA	NA	NA	NA
+Ruminococcaceae NK4A214 group	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-002	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-003	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-004	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-005	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-010	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-013	0	NA	NA	NA	NA	NA
+Ruminococcaceae UCG-014	0	NA	NA	NA	NA	NA
+Ruminococcus 1	0	NA	NA	NA	NA	NA
+Ruminococcus 2	0	NA	NA	NA	NA	NA
+S5-A14a	0	NA	NA	NA	NA	NA
+Salipaludibacillus	0	NA	NA	NA	NA	NA
+Schlesneria	0	NA	NA	NA	NA	NA
+Sediminibacterium	0	NA	NA	NA	NA	NA
+Selenomonas 3	0	NA	NA	NA	NA	NA
+Senegalimassilia	0	NA	NA	NA	NA	NA
+Shewanella	0	NA	NA	NA	NA	NA
+Solirubrobacter	0	NA	NA	NA	NA	NA
+Sphingoaurantiacus	0	NA	NA	NA	NA	NA
+Sphingobacterium	0	NA	NA	NA	NA	NA
+Sphingobium	0	NA	NA	NA	NA	NA
+Sphingomonas	0	NA	NA	NA	NA	NA
+Sporomusa	0	NA	NA	NA	NA	NA
+Subdoligranulum	0	NA	NA	NA	NA	NA
+Sulfurifustis	0	NA	NA	NA	NA	NA
+Sulfuritalea	0	NA	NA	NA	NA	NA
+Taibaiella	0	NA	NA	NA	NA	NA
+Tepidimonas	0	NA	NA	NA	NA	NA
+Thermus	0	NA	NA	NA	NA	NA
+Triticum aestivum (bread wheat)	0	NA	NA	NA	NA	NA
+Truepera	0	NA	NA	NA	NA	NA
+Turicibacter	0	NA	NA	NA	NA	NA
+Turneriella	0	NA	NA	NA	NA	NA
+UBA1819	0	NA	NA	NA	NA	NA
+Undibacterium	0	NA	NA	NA	NA	NA
+unknown_0319-6G20	0	NA	NA	NA	NA	NA
+unknown_A4b	0	NA	NA	NA	NA	NA
+unknown_Absconditabacteriales (SR1)	0	NA	NA	NA	NA	NA
+unknown_Acetobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Acidobacteriales	0	NA	NA	NA	NA	NA
+unknown_AKYH767	0	NA	NA	NA	NA	NA
+unknown_Alphaproteobacteria	0	NA	NA	NA	NA	NA
+unknown_Anaerolineaceae	0	NA	NA	NA	NA	NA
+unknown_Babeliales	0	NA	NA	NA	NA	NA
+unknown_Bacilli	0	NA	NA	NA	NA	NA
+unknown_bacteriap25	0	NA	NA	NA	NA	NA
+unknown_BD2-11 terrestrial group	0	NA	NA	NA	NA	NA
+unknown_Beijerinckiaceae	0	NA	NA	NA	NA	NA
+unknown_BRC1	0	NA	NA	NA	NA	NA
+unknown_Caenarcaniphilales	0	NA	NA	NA	NA	NA
+unknown_Candidatus Abawacabacteria	0	NA	NA	NA	NA	NA
+unknown_Candidatus Gottesmanbacteria	0	NA	NA	NA	NA	NA
+unknown_Caulobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Chitinophagaceae	0	NA	NA	NA	NA	NA
+unknown_Chitinophagales	0	NA	NA	NA	NA	NA
+unknown_Chloroplast	0	NA	NA	NA	NA	NA
+unknown_Chroococcidiopsaceae	0	NA	NA	NA	NA	NA
+unknown_Clostridiales	0	NA	NA	NA	NA	NA
+unknown_Clostridiales vadinBB60 group	0	NA	NA	NA	NA	NA
+unknown_Corynebacteriales	0	NA	NA	NA	NA	NA
+unknown_Elsterales	0	NA	NA	NA	NA	NA
+unknown_Enterococcaceae	0	NA	NA	NA	NA	NA
+unknown_FBP	0	NA	NA	NA	NA	NA
+unknown_Frankiales	0	NA	NA	NA	NA	NA
+unknown_Gallionellaceae	0	NA	NA	NA	NA	NA
+unknown_Gammaproteobacteria	0	NA	NA	NA	NA	NA
+unknown_Gammaproteobacteria Incertae Sedis	0	NA	NA	NA	NA	NA
+unknown_Gastranaerophilales	0	NA	NA	NA	NA	NA
+unknown_Gemmataceae	0	NA	NA	NA	NA	NA
+unknown_Gemmatimonadaceae	0	NA	NA	NA	NA	NA
+unknown_Geodermatophilaceae	0	NA	NA	NA	NA	NA
+unknown_Holosporaceae	0	NA	NA	NA	NA	NA
+unknown_Intrasporangiaceae	0	NA	NA	NA	NA	NA
+unknown_JG30-KF-CM45	0	NA	NA	NA	NA	NA
+unknown_JG30-KF-CM66	0	NA	NA	NA	NA	NA
+unknown_Ktedonobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Lachnospiraceae	0	NA	NA	NA	NA	NA
+unknown_Lineage IV	0	NA	NA	NA	NA	NA
+unknown_Methylophilaceae	0	NA	NA	NA	NA	NA
+unknown_Micavibrionales	0	NA	NA	NA	NA	NA
+unknown_Microbacteriaceae	0	NA	NA	NA	NA	NA
+unknown_Micrococcaceae	0	NA	NA	NA	NA	NA
+unknown_Micrococcales	0	NA	NA	NA	NA	NA
+unknown_Micromonosporaceae	0	NA	NA	NA	NA	NA
+unknown_Micropepsaceae	0	NA	NA	NA	NA	NA
+unknown_mle1-27	0	NA	NA	NA	NA	NA
+unknown_Mollicutes RF39	0	NA	NA	NA	NA	NA
+unknown_MVP-88	0	NA	NA	NA	NA	NA
+unknown_Myxococcales	0	NA	NA	NA	NA	NA
+unknown_Neisseriaceae	0	NA	NA	NA	NA	NA
+unknown_Nitrosomonadaceae	0	NA	NA	NA	NA	NA
+unknown_Obscuribacterales	0	NA	NA	NA	NA	NA
+unknown_OLB14	0	NA	NA	NA	NA	NA
+unknown_Oligoflexaceae	0	NA	NA	NA	NA	NA
+unknown_OM190	0	NA	NA	NA	NA	NA
+unknown_Omnitrophicaeota	0	NA	NA	NA	NA	NA
+unknown_OPB56	0	NA	NA	NA	NA	NA
+unknown_Paracaedibacteraceae	0	NA	NA	NA	NA	NA
+unknown_Parcubacteria	0	NA	NA	NA	NA	NA
+unknown_PB19	0	NA	NA	NA	NA	NA
+unknown_Pedosphaeraceae	0	NA	NA	NA	NA	NA
+unknown_Phaseolus acutifolius (tepary bean)	0	NA	NA	NA	NA	NA
+unknown_Planctomycetales	0	NA	NA	NA	NA	NA
+unknown_Polyangiaceae	0	NA	NA	NA	NA	NA
+unknown_Prevotellaceae	0	NA	NA	NA	NA	NA
+unknown_Propionibacteriaceae	0	NA	NA	NA	NA	NA
+unknown_Rhizobiaceae	0	NA	NA	NA	NA	NA
+unknown_Rhizobiales Incertae Sedis	0	NA	NA	NA	NA	NA
+unknown_Rhodanobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Rhodobacteraceae	0	NA	NA	NA	NA	NA
+unknown_Rhodocyclaceae	0	NA	NA	NA	NA	NA
+unknown_Rhodospirillaceae	0	NA	NA	NA	NA	NA
+unknown_Rhodospirillales	0	NA	NA	NA	NA	NA
+unknown_Ruminococcaceae	0	NA	NA	NA	NA	NA
+unknown_SM2D12	0	NA	NA	NA	NA	NA
+unknown_Solimonadaceae	0	NA	NA	NA	NA	NA
+unknown_Sphingomonadaceae	0	NA	NA	NA	NA	NA
+unknown_Staphylococcaceae	0	NA	NA	NA	NA	NA
+unknown_Subgroup 17	0	NA	NA	NA	NA	NA
+unknown_Subgroup 6	0	NA	NA	NA	NA	NA
+unknown_Subgroup 7	0	NA	NA	NA	NA	NA
+unknown_Thalassobaculales	0	NA	NA	NA	NA	NA
+unknown_Thermodesulfovibrionia	0	NA	NA	NA	NA	NA
+unknown_Triticum aestivum (bread wheat)	0	NA	NA	NA	NA	NA
+unknown_UBA12409	0	NA	NA	NA	NA	NA
+unknown_Veillonellaceae	0	NA	NA	NA	NA	NA
+unknown_WD260	0	NA	NA	NA	NA	NA
+unknown_Weeksellaceae	0	NA	NA	NA	NA	NA
+unknown_WPS-2	0	NA	NA	NA	NA	NA
+unknown_Xanthobacteraceae	0	NA	NA	NA	NA	NA
+Vagococcus	0	NA	NA	NA	NA	NA
+Variovorax	0	NA	NA	NA	NA	NA
+Vibrionimonas	0	NA	NA	NA	NA	NA
+Vulcaniibacterium	0	NA	NA	NA	NA	NA
+Williamsia	0	NA	NA	NA	NA	NA
