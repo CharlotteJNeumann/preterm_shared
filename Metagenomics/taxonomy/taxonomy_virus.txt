@@ -1,0 +1,90 @@
+OTU	kingdom	phylum	class	order	family	genus	species
+OTU1	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	SPO1-like viruses	Bacillus phage SPO1
+OTU2	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	SPO1-like viruses	Enterococcus phage phiEF24C
+OTU3	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	SPO1-like viruses	Lactobacillus phage LP65
+OTU4	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	SPO1-like viruses	Staphylococcus phage G1
+OTU5	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	T4-like viruses	Prochlorococcus phage P-SSM2
+OTU6	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	T4-like viruses	Prochlorococcus phage P-SSM4
+OTU7	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	unclassified (derived from Myoviridae)	Clostridium phage phi CD119
+OTU8	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	unclassified (derived from Myoviridae)	Clostridium phage phiC2
+OTU9	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	unclassified (derived from Myoviridae)	Clostridium phage phiCD27
+OTU10	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	unclassified (derived from Myoviridae)	Lactobacillus phage Lb338-1
+OTU11	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Myoviridae	unclassified (derived from Myoviridae)	Streptococcus phage EJ-1
+OTU12	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	AHJD-like viruses	Staphylococcus phage 44AHJD
+OTU13	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	AHJD-like viruses	Staphylococcus phage 66
+OTU14	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	AHJD-like viruses	Staphylococcus phage P68
+OTU15	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	AHJD-like viruses	Staphylococcus phage SAP-2
+OTU16	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	Epsilon15-like viruses	Escherichia phage phiV10
+OTU17	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	P22-like viruses	Enterobacteria phage P22
+OTU18	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	P22-like viruses	Salmonella phage epsilon34
+OTU19	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	P22-like viruses	Salmonella phage ST64T
+OTU20	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	unclassified (derived from Podoviridae)	Burkholderia phage Bcep22
+OTU21	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	unclassified (derived from Podoviridae)	Enterobacteria phage Min27
+OTU22	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Podoviridae	unclassified (derived from Podoviridae)	Salmonella phage SE1
+OTU23	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	L5-like viruses	Mycobacterium phage L5
+OTU24	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	Lambda-like viruses	Burkholderia phage KS9
+OTU25	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Bacillus phage BCJA1c
+OTU26	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Corynebacterium phage P1201
+OTU27	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Enterobacteria phage ES18
+OTU28	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Enterococcus phage phiEf11
+OTU29	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Enterococcus phage phiFL1A
+OTU30	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Enterococcus phage phiFL2A
+OTU31	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Enterococcus phage phiFL3A
+OTU32	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage A2
+OTU33	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage KC5a
+OTU34	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage Lc-Nu
+OTU35	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage LL-H
+OTU36	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage Lrm1
+OTU37	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage Lv-1
+OTU38	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage phiadh
+OTU39	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactobacillus phage phig1e
+OTU40	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactococcus phage P335 sensu lato
+OTU41	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactococcus phage r1t
+OTU42	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactococcus phage Tuc2009
+OTU43	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Lactococcus phage ul36
+OTU44	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Listeria phage B025
+OTU45	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Microbacterium phage Min1
+OTU46	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage 244
+OTU47	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage Angel
+OTU48	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage BPs
+OTU49	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage Bxz2
+OTU50	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage Cjw1
+OTU51	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage Halo
+OTU52	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage Omega
+OTU53	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage Porky
+OTU54	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Mycobacterium phage TM4
+OTU55	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Propionibacterium phage PA6
+OTU56	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Salmonella phage Vi II-E1
+OTU57	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 187
+OTU58	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 2638A
+OTU59	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 37
+OTU60	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 42E
+OTU61	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 53 sensu lato
+OTU62	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 55
+OTU63	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 77
+OTU64	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage 80alpha
+OTU65	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage CNPH82
+OTU66	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage EW
+OTU67	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage PH15
+OTU68	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phi13
+OTU69	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phiETA
+OTU70	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phiETA2
+OTU71	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phiMR11
+OTU72	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phiMR25
+OTU73	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phiSauS-IPLA35
+OTU74	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage phiSLT
+OTU75	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus phage PVL
+OTU76	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Staphylococcus prophage phiPV83
+OTU77	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Streptococcus phage 5093
+OTU78	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Streptococcus phage MM1
+OTU79	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Streptococcus phage phi3396
+OTU80	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Streptococcus phage Sfi11
+OTU81	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Streptococcus phage Sfi21
+OTU82	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	Siphoviridae	unclassified (derived from Siphoviridae)	Streptococcus phage SM1
+OTU83	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	unclassified (derived from Caudovirales)	unclassified (derived from Caudovirales)	Geobacillus phage GBSV1
+OTU84	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Caudovirales	unclassified (derived from Caudovirales)	unclassified (derived from Caudovirales)	Streptococcus phage SMP
+OTU85	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Lactobacillus johnsonii prophage Lj771
+OTU86	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Salmonella phage Fels-1
+OTU87	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Staphylococcus phage phi2958PVL
+OTU88	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Staphylococcus phage phiPVL-CN125
+OTU89	Viruses	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	unclassified (derived from Viruses)	Staphylococcus phage PT1028
